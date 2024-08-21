@@ -1,0 +1,145 @@
+<%- include('./partials/header') %>
+
+<div class="search">
+    <form class="searchBox" action="http://localhost:3000/search/search" method="GET">
+        <input type="text" name="query" class="searchInput" placeholder="검색">
+        <button type="submit" class="searchBtn">
+            <i class="fas fa-solid fa-magnifying-glass"></i>
+        </button>
+    </form>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="col">
+            <a href="<%= youtubes.source_url %>" target="_blank" class="bg-placeholder-img card-img-top">
+                <img src="<%= youtubes.thumbnail %>" alt="">
+            </a>
+            <div class="card shadow-sm">
+                <a href="<%= youtubes.source_url %>" target="_blank" class="bg-placeholder-img card-img-top" style="text-decoration: none; color: red;">
+                    <h3><%= youtubes.title %></h3>
+                </a>
+                <div class="card-body">
+                    <li><%= youtubes.channel_name %></li>
+                    <% if (youtubes.description != '') { %>
+                        <p><%= youtubes.description %></p>
+                    <% } %>
+                    <% if (youtubes.summary != '') { %>
+                        <li><%= youtubes.summary %></li>
+                    <%  } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .search {
+        display: flex;
+        justify-content: center;
+        margin: 1% 0 10% 0;
+    }
+
+    .searchBox {
+        height: 55px;
+        width: 951px;
+        background-color: #F0F0F0;
+        border-radius: 35px;
+        padding: 10px;
+        border: 1px solid #000;
+        display: flex;
+    }
+
+    .searchInput {
+        border: none;
+        background: none;
+        outline: none;
+        float: left;
+        padding: 0;
+        color: #000;
+        font-size: 24px;
+        line-height: 30px;
+        width: 95%;
+        margin: 0;
+    }
+
+    .searchBtn {
+        color: #000;
+        float: right;
+        width: 40px;
+        height: 100%;
+        border-radius: 50%;
+        background-color: #F0F0F0;
+        border: none;
+        font-size: 24px;
+        display: flex;
+        justify-self: center;
+        align-items: center;
+    }
+
+    .row {
+        max-width: 94%;
+        margin: 0 3% 0 4%;
+        display: flex;
+    }
+    
+    .col-xs-12 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .col {
+        max-width: 80%;
+        max-height: 280px;
+        margin: 0 0 5% 0;
+    }
+
+    .card {
+        margin-bottom: 20px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+    
+    .card-body {
+        min-height: 141px;
+    }
+
+    .bg-placeholder-img-card-img-top {
+        width: 100%;
+        display: block;
+    }
+
+    .card-img-top {
+        width: 150%;
+        object-fit: cover;
+        border-radius: 15px;
+    }
+
+    a.bg-placeholder-img-card-img-top {
+        width: 100%;
+    }
+
+    h3 {
+        font-size: 18px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    p {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+</style>
+
+<%- include('./partials/footer') %>

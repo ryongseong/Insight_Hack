@@ -1,0 +1,1668 @@
+[
+    {
+        "title": "[ROS 기초 강의] Chapter0. 강의 소개",
+        "channel_name": "구선생 로보틱스",
+        "description": "ROS 기초 강의 \nChapter0. 강의 소개\n\n질문사항은 댓글로 남겨주세요\n\n개발환경\nUbuntu 20.04\nROS noetic\n\n- ROS 로봇프로그래밍 개발환경 구축하기 [noetic 버전]",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=Twsi0XNSsnY&list=PLoc4bSmQajN-y88btKBK6lvAbrTtJDrYs"
+    },
+    {
+        "title": "ROS 강의 Chapter1. 로봇 소프트웨어 플랫폼",
+        "channel_name": "ROBOTIS OpenSourceTeam",
+        "description": "✔ 저자 직강 온라인 강좌!\n✔ 기초부터 ROS 기본 프로그래밍 학습, 시뮬레이터, 실제 로봇에 적용까지!\n✔ 책 한권 뚝딱 말아먹을 수 있는 책 전체 분량인 총 13장 분량 + α\n✔ 노잼이지만 쉬운 설명을 위해서는 몸개그도 불사!\n✔ 강의 자료 및 소스 코드 모두 공개!\n\n▪ 온라인 강의 목차 ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw"
+    },
+    {
+        "title": "[ROS2] 0. 우리 강의를 소개합니다｜R2R 입문｜민형기 강사님 무료 강의",
+        "channel_name": "핑크랩 PinkLAB",
+        "description": "#ros2",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=u9Fubn3JRVA&list=PL0xYz_4oqpvhj4JaPSTeGI2k5GQEE36oi"
+    },
+    {
+        "title": "[1부. ROS Intro - 1] ROS 소개 및 설치 (1hr)",
+        "channel_name": "KIMe Lab",
+        "description": "ROS (Robot Operating System, 로봇 운영체제) 강의 동영상\n[1부. ROS Intro - 1] ROS 소개 및 설치 (1hr)\n: 소개 및 VirtualBox, Ubuntu 20.04, ROS-Noetic을 이용한 ROS 테스트 환경 설치\n\n* 연구실 소개: KIMe Lab (",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=kiNST0uwiJ8&list=PL12w7vYWefUz9aRGRQqPWWLH9gTTEovRW"
+    },
+    {
+        "title": "[ROS 2 - 초급] #1 ROS 2 설치 및 개발 환경 구축",
+        "channel_name": "KIMe Lab",
+        "description": "[설명]\n[ROS 2 - 초급] #1 ROS 2 설치 및 개발 환경 구축\n: ROS 2 Foxy Fitzroy, Ubuntu 20.04 LTS, VS Code 설치 및 개발 환경 구축 소개\n\n[연구실 소개]\n지식-지능형 메카트로닉스 연구실 (KIMe Lab)\nKnowledge-Intelligence Mechatronics Laboratory\n(",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=fbiT445DE9s&list=PL12w7vYWefUwSg5frw_tIHVp9XRwS8Ipt"
+    },
+    {
+        "title": "[ROS 2] 01강 ROS 2란? | 강의 : Roadbalance.com 김수영 대표",
+        "channel_name": "Developers and Creators",
+        "description": "로보티즈 표윤석 박사님께서 감수해주셨습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=X9uYIumhU8E&list=PLieE0qnqO2kTNCznjLX_AaXe2hNJ-IpVQ"
+    },
+    {
+        "title": "ROS를 배워보자 - 1.ROS 환경 설치와 설정",
+        "channel_name": "쿼드(QUAD) 드론 연구소",
+        "description": "1. 주제\n- 로봇 운영 체제(ROS)는 로봇 애플리케이션을 구축하는 데 도움이 되는 소프트웨어 라이브러리 및 도구 세트입니다. ROS를 이용하여 로봇 및 드론을 개발하기 위한 기본 지식을 실습을 통해 습득하도록 합니다.\n\n2. 내용\n- ROS 기본과정(4시간)에서는 ROS 환경 설치와 설정, 파일시스템, 패키지 작성 및 샘플 프로그램을 실습을 통해 구현해 보며 ROS의 개념과 메커니즘을 이해 합니다.\n- 심화과정(4시간)에서는 직접 프로젝트에서 적용할 수 있는 개발 팁과 여러개의 ROS 머신을 관리하는 방법과 사용자 메시지를 정의하고 C++ 클래스를 파이썬에서 사용하는 방법을 교육 합니다.\n- 시뮬레이션과정(2시간)에서는 ROS의 대표적인 시뮬레이터인 Gazebo에서 로봇을 생성하고 활용하는 방법에 대해 교육 합니다.\n\n--------------------------------------------------\n전체강좌 영상 및 교재 구입",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=SH__g7nHn6o&list=PLg93_MFmLWh0WIf7WRqFADgpOa9Lc0aeo"
+    },
+    {
+        "title": "Programming for Robotics (ROS) Course 1",
+        "channel_name": "Robotic Systems Lab: Legged Robotics at ETH Zürich",
+        "description": "The slides are available here:",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP"
+    },
+    {
+        "title": "What is ROS (Robot Operating System)| Introduction to the Tutorials",
+        "channel_name": "Tiziano Fiorenzani",
+        "description": "ROS stays for Robot Operating System and this tutorial series covers the basics with simple and fun projects, using ROS Kinetic, a RC car and a Raspberry Pi.\n\n** Visit my brand new portal at ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=N6K2LWG2kRI&list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv"
+    },
+    {
+        "title": "ROS tutorial #01 Introduction and preparation",
+        "channel_name": "Shawn C",
+        "description": "Robot operating system tutorial #01\nIntroduction and preparation before we install the ROS",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=ehtUb55Rmmg&list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC"
+    },
+    {
+        "title": "How to install ROS Kinetic on Ubuntu 16.04 | Robot Operating System |",
+        "channel_name": "ROBOMECHTRIX",
+        "description": "How to install Robot Operating System (ROS)  -------------------------\nIn this video, we walk through the whole process of installing ROS Kinetic on Ubuntu 16.04. \nIf you are new to ROS walk along with us while installing and you will be done in minutes. \n\nHere is the link to download - ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=hmej7Wkj0OA&list=PL8dDSKArO2-m7hAjOgqL5uV75aZW6cqE5"
+    },
+    {
+        "title": "Chapter 01 Robot Software Platform",
+        "channel_name": "ROBOTIS OpenSourceTeam",
+        "description": "▪ ROS Online Course\n: This ROS course is a ROS robot programming guide based on the experiences we had accumulated from ROS projects like TurtleBot3, OpenCR and OpenManipulator. We tried to make this a comprehensive guide that covers all aspects necessary for a beginner in ROS. Topics such as embedded system, mobile robots, and robot arms programmed with ROS are included. For those who are new to ROS, there are footnotes throughout the book providing more information on the web. Through this book, we hope that more people will be aware of and participate in bringing forward the ever-accelerating collective knowledge of Robotics Engineering.\n\n✔ Free Online Course!\n✔ Basic ROS learning from basics, simulators, applied to real robots!\n✔ We share a 500-page book for free!\n✔ All lecture materials and source code are opened!\n\n▪ Lecture materials\n- ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=1tqYrWqrbC8&list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf"
+    },
+    {
+        "title": "WHAT IS ROS? HOW TO LEARN ROS? Important for every ROBOTICS ENGINEER? | Start of ROS Tutorial Series",
+        "channel_name": "Pranshu Tople",
+        "description": "What is ROS? How does it work? How can I learn ROS? Why is it a must-learn for a Robotics Engineer?\n\nThese are some very common questions that many people ask me almost every day. This made me realize that making a video answering these questions would be very useful to many people. So I decided to put up this video before I could start with the actual tutorial on ROS so that you guys have a clear picture of what we are getting into and how it is useful for you.\n\nIn this video, I have tried to explain all the basics that anyone would like to know about ROS in a semi-dramatic way which would make it easier to understand and help you to relate the concepts of ROS to everyday things so that you remember it forever.\n\n👍🏻 Like and Share the video with your friends if you found it useful.  \n💬 Also, comment down below if you feel I have missed out on some important topic which you would like to see a video on. \n🔔 Don't forget to subscribe to my channel for more such informative videos and tutorials over Robotics & ROS.\n\n––––––––––––––––––––––––––––––\n\n📚 Important Links: \nUnderstand more about ROS: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=0UMJRaip7UU&list=PLFnCFnTZNyU_qI4eVTHmCiVL5rKeJppB8"
+    },
+    {
+        "title": "ROS BASICS IN 5 DAYS #1 - Course Overview & Introduction",
+        "channel_name": "The Construct",
+        "description": "If you are ROS beginner, this is your course. In this video, you will get an overview of the ROS BASICS IN 5 DAYS course.\n\nCourse's link: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=DBFYZRMLr70&list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc"
+    },
+    {
+        "title": "Intro: Install and Setup ROS Noetic - ROS Tutorial 1 (ROS1)",
+        "channel_name": "Robotics Back-End",
+        "description": "In this first ROS tutorial you will install and setup ROS Noetic on Ubuntu 20.04, so that you can start a ROS Master and be ready for the following.\n\n🔥 Complete ROS1 Course for Beginners 👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=Qk4vLFhvfbI&list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q"
+    },
+    {
+        "title": "ROS tutorial #1: Introduction, Installing ROS, and running the Turtlebot simulator.",
+        "channel_name": "Justin Huang",
+        "description": "ROS (Robot Operating System) is a popular software library for robotics programming. It is free, open-source, and used by robotics researchers and companies around the world. This video introduces ROS and describes its advantages and disadvantages. It also walks through installing ROS Indigo on Ubuntu 14.04, installing the Turtlebot software, and running the Turtlebot simulation in Gazebo.\n\nSlides link: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=9U6GDonGFHw&list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8"
+    },
+    {
+        "title": "ROS Tutorial 1: What is ROS and How to Install",
+        "channel_name": "Emil Vidmark",
+        "description": "This video gives an introduction to ROS of what it is. It also show how to install ROS on Ubuntu or WSL2\n\nLink on my earlier video on How to install WSL2:",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=C6BlNbeU3fQ&list=PLAjUtIp46jDcQb-MgFLpGqskm9iB5xfoP"
+    },
+    {
+        "title": "ROS Tutorial 1: What is ROS and How to Install",
+        "channel_name": "Emil Vidmark",
+        "description": "This video gives an introduction to ROS of what it is. It also show how to install ROS on Ubuntu or WSL2\n\nLink on my earlier video on How to install WSL2:",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=C6BlNbeU3fQ&list=PLAjUtIp46jDdv1U7I0tJlJTmjnYcczJSN"
+    },
+    {
+        "title": "Create a ROS2 Component and Load it at Runtime",
+        "channel_name": "Robotics Back-End",
+        "description": "Learn how to transform a ROS2 Node into a Component, build it, and load in at runtime inside a Component Container.\n👉 Complete ROS2 Course to learn everything about Actions, Lifecycle Nodes, Executors, Components 🔥 ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=PD0VJYBkkfQ&list=PLLSegLrePWgIPU02-lpVtp58268VB3eCG"
+    },
+    {
+        "title": "ROS 강의 Chapter1. 로봇 소프트웨어 플랫폼",
+        "channel_name": "ROBOTIS OpenSourceTeam",
+        "description": "✔ 저자 직강 온라인 강좌!\n✔ 기초부터 ROS 기본 프로그래밍 학습, 시뮬레이터, 실제 로봇에 적용까지!\n✔ 책 한권 뚝딱 말아먹을 수 있는 책 전체 분량인 총 13장 분량 + α\n✔ 노잼이지만 쉬운 설명을 위해서는 몸개그도 불사!\n✔ 강의 자료 및 소스 코드 모두 공개!\n\n▪ 온라인 강의 목차 ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PL0bFnYeAgmhpSDegSmeHMr4K8ib8Tr5jG"
+    },
+    {
+        "title": "How to Install ROS On Windows Natively",
+        "channel_name": "Svenzva Robotics",
+        "description": "Follow along with this tutorial to install ROS On Windows on your machine. After installation you'll be able to follow along with the official ROS tutorials and start robot software development.\n\nROS On Windows is a native installation of ROS. This is different from earlier methods of installing ROS either through a virtual machine or the Windows Subsystem for Linux.\n\nLearn more about the differences of ROS on Windows and Linux here: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=mO_ilabG63I&list=PLFGU0Ebtn7y4p1BPF8My_SxRZSlcMSGAd"
+    },
+    {
+        "title": "An introduction to ROS the Robot Operating System",
+        "channel_name": "Kevin McAleer",
+        "description": "Do you want to know more about ROS the Robot Operating System? Then watch this introduction.\nWe'll cover: \n- What is ROS?\n- What can ROS do?\n- The knowledge and skills you'll need\n- A demo of ROS in action using the Turtle Simulator\n\nThis is part 1 of a series on ROS, and how we can use it with our own Robotic creations.\n\n💁‍♂️ For more information on SMARS Robots, tutorials and more visit: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=MWKnMPX0Yjg&list=PLU9tksFlQRircAdEplrH9NMm4WtSA8yzi"
+    },
+    {
+        "title": "Lec 01 Class Overview EN",
+        "channel_name": "Juan Rojas",
+        "description": "Introduction to the MOOC course and to ROS.",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=G7L6prwfHkU&list=PLy-BfVK12-hyJFHbFhEr4PTEqF_HO5mi0"
+    },
+    {
+        "title": "Autonomous Navigation Mobile Robot Using ROS Without Using a Pre-saved Map | ROS 101 | Lesson 10",
+        "channel_name": "Mecharithm - Robotics and Mechatronics",
+        "description": "Note: Lessons in the ROS 101 course are not edited in order for you to see the hiccups along the way and how to troubleshoot them. Please let us know if you like this or not. \n\nIn the previous lesson, we started with autonomous navigation using a pre-saved map, wrote our own code, and created the auto_nav package for our final project. In a nutshell, we \n- navigated autonomously using a pre-saved map\n- were introduced to autonomous navigation concepts\n- ran Localization, move_base, and other navigation nodes",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=dDODrSy6cYU&list=PLlqdnFs9xNwql5KET7v7zyl393y10qxtw"
+    },
+    {
+        "title": "Lec 01 Class Overview EN",
+        "channel_name": "Juan Rojas",
+        "description": "Introduction to the MOOC course and to ROS.",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=G7L6prwfHkU&list=PLy-BfVK12-hyJFHbFhEr4PTEqF_HO5mi0"
+    },
+    {
+        "title": "Autonomous Navigation Mobile Robot Using ROS Without Using a Pre-saved Map | ROS 101 | Lesson 10",
+        "channel_name": "Mecharithm - Robotics and Mechatronics",
+        "description": "Note: Lessons in the ROS 101 course are not edited in order for you to see the hiccups along the way and how to troubleshoot them. Please let us know if you like this or not. \n\nIn the previous lesson, we started with autonomous navigation using a pre-saved map, wrote our own code, and created the auto_nav package for our final project. In a nutshell, we \n- navigated autonomously using a pre-saved map\n- were introduced to autonomous navigation concepts\n- ran Localization, move_base, and other navigation nodes",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=dDODrSy6cYU&list=PLlqdnFs9xNwql5KET7v7zyl393y10qxtw"
+    },
+    {
+        "title": "OpenMANIPULATOR-PRO",
+        "channel_name": "ROBOTIS",
+        "description": "로보티즈의 신제품 OpenMANIPULATOR-PRO 입니다.\n\n오픈매니퓰레이터 프로는 다이나믹셀 프로 플러스로 구성된 오픈소스 기반의 6 자유도 매니퓰레이터로써 아래 4개의 특성을 갖고 있습니다.\n\n1. 사용자 프로그래밍이 가능한 ROS 기반 개발환경 제공\n2. 유지 보수가 용이한 모듈형 기계 구조\n3. 경량화 설계를 통한 높은 무게대 출력 보유\n4. USB 인터페이스, RS-485 통신\n\n관심있으신 분들은 아래의 홈페이지에 자세히 공개가 되어있으니 링크로 들어가셔서 확인해주시면 감사하겠습니다.\n---\nROBOTIS's new product OpenMANIPULATOR-PRO.\n\n▪ 6 DOF (Built with DYNAMIXEL PRO PLUS)\n▪ ROS environment for User Programming\n▪ Modular Structure for Ease of Maintenance\n▪ Continuous Payload Suitable for Small to Mid-scale Operations\n▪ RS-485 Communication Bus\n▪ Control via Computer Using USB Interface or Arduino & ROBOTIS Embedded Controllers\n\nIf you are interested, please visit the following website for detailed information.\n---\n로보티즈 홈페이지 : ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=gQmaXIipT1A&list=PLvaBFX_ny57TT8VvYWyixTbIRE9fpLZWj"
+    },
+    {
+        "title": "R 프로그래밍 기초 강의 1강 - R 프로그램 다운로드 및 설치 [23년 최신]",
+        "channel_name": "슬기로운통계생활",
+        "description": "환영합니다! R 프로그래밍 기초 강의 1강에 오신 것을 환영합니다. 이번 강의에서는 2023년 최신 버전의 R 프로그램을 다운로드하고 설치하는 과정을 상세히 안내해 드릴 것입니다. 데이터 분석과 시각화, 통계 계산에 이상적인 오픈소스 프로그래밍 언어인 R을 처음 사용하시는 분들을 위해 준비했습니다.\n\n영상에서는 R 프로그램의 공식 웹사이트 방문부터 시작해, 운영 체제별로 맞는 R 버전을 선택하고 다운로드하는 방법을 단계별로 설명합니다. 설치 과정 동안 나타날 수 있는 주요 옵션과 설정에 대한 구체적인 안내를 통해, 심지어 컴퓨터에 익숙하지 않으신 분들도 쉽게 따라 할 수 있도록 하였습니다.\n\n이 강의를 통해 R 프로그램의 기본적인 설치 및 설정 방법을 숙지하신 뒤, 다음 강의에서는 R 프로그래밍의 기초와 RStudio의 활용 방법에 대해 배워보실 예정입니다. 데이터 분석의 세계로 첫발을 내딛기 위한 이번 강의에 많은 관심과 참여 부탁드립니다. 감사합니다!\n\n채널 유료 멤버십 여러분들과 진행한 기초 R강의 편집본 입니다. 뭐든 처음 배울때 설치 및 설정이 가장 어렵죠? 천천히 따라오시기 바랍니다. 정기적으로 멤버십을 대상으로 데이터 분석 강의를 진행하고 있습니다. 영상의 강의가 마음에 드신다면 슬통갱에 가입하셔서 같이 공부해보아요! :)\n\n🧑‍💻슬통갱😎🤓 가입하기:",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=LVkhk4MXQAg&list=PLKtLBdGREmMmw86INhCWxJNfwBUcnxgZ6"
+    },
+    {
+        "title": "Intro: Install and Setup ROS2 Humble - ROS2 Tutorial 1",
+        "channel_name": "Robotics Back-End",
+        "description": "In this first ROS2 tutorial you will install and setup ROS2 Humble on Ubuntu 22.04, so that you can be ready for the following.\n🔥 10+h ROS2 Course 👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=0aPbWsyENA8&list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy"
+    },
+    {
+        "title": "R 프로그래밍 / R 기초 - 설치 🔑 CRAN | RStudio | Rconsole | Rprofile.site | MDI와 SDI",
+        "channel_name": "곽기영",
+        "description": "[데이터분석 프로그래밍 언어 R]\nR의 특징을 살펴보고 R과 RStudio를 설치합니다.\n\n🔊 윈도우 사용자 계정 이름이 한글이면 R을 설치하기 전에 영문으로 변경해주세요. 사용자 계정의 이름이 한글로 되어 있으면 여러 가지 문제를 일으킬 수 있습니다.\n\n📚 『곽기영』 채널의 동영상 강의는 다음 도서를 바탕으로 하고 있습니다. 책의 목차를 포함한 책자에 대한 소개는 도서명 옆의 링크를 참고해주세요. 💕\n『R 기초와 활용』 (",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=sL_Kc379r_4&list=PLY0OaF78qqGA42e0rXqBWCcF_C9Ib-T1x"
+    },
+    {
+        "title": "[R 기초]NO.1 R의 개요",
+        "channel_name": "스마트인재개발원 인쌤TV",
+        "description": "✔️빅데이터 입문자를 위한 눈높이 교육! 그것이 R고싶다!\n\n✔️R의 개요 \n\nPPT다운로드 받기: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=iZc-X2lPm6c&list=PLRYL8FHwJMhDPF2R2pCe_HwqPt0gaUbvN"
+    },
+    {
+        "title": "[하루만에 끝내는 R기초] 1교시. 강의 소개",
+        "channel_name": "통계의 도구들 Statools",
+        "description": "강의노트",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=RmpEe1UIHGY&list=PLPiTdFurtYLLD-afK1o9C-dAN_XUW5o9-"
+    },
+    {
+        "title": "ROS Nedir? - What is the ROS? - ROS Dersleri - ROS Course",
+        "channel_name": "Gökhan Atalı",
+        "description": "Robot Operating System (ROS) ve robot uygulamaları",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=9c6YltIMBSQ&list=PLmVS1c4B22Cri8B7qCVHmLvDYoUwUi2qb"
+    },
+    {
+        "title": "빅데이터 분석 툴- R 프로그래밍 기초 (설치~ 변수생성(벡터))",
+        "channel_name": "Data Eat",
+        "description": "빅데이터 분석에서 가장 필요한 R Studio의 기본 설명 영상 첫번째 입니다. \nR 프로그래밍을 다루면서 기초부터 시작하여 분석, 시각화, 모델생성까지 다뤄보겠습니다.\n이번 영상은 R 스튜디오 설치와 변수생성(벡터) 부분 입니다. 감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=JJ5ZZf83F7c&list=PLGY_YVJad5_HDx41YQRecEI9Yu0nFUY6n"
+    },
+    {
+        "title": "ROS2를 배워보자 - 01.개요 및 환경구성",
+        "channel_name": "쿼드(QUAD) 드론 연구소",
+        "description": "ROS는 이제 로봇 공학을 하는 사람 뿐만 아니라 취미로 로봇을 하는 사람들도 반드시 알아야 하는 로봇 개발툴로 자리매김을 하고 있습니다.\nROS를 이용하면 로봇 제작에 필요한 여러가지 센서, 엑추에이터 들을 손쉽게 연결할 수 있으며, 로봇 자동화에 필요한 여러가지 프로그램 언어(C++, Python 등)를 지원하고 시뮬레이션, 테스트 및 모니터링에 필요한 도구들(RQT, RVIZ, Gazebo 등)도 제공하고 있어 빠른 속도로 로봇을 제작하고 사용할 수 있게 해줍니다.\n\n2년전 무료 ROS(1) 강좌를 통해 로봇 및 드론에 관심이 있으신 분들이 ROS를 쉽게 이해할 수 있도록 도와드렸는데요, 이번에 \"ROS2를 배워보자\" 강좌를 다시 시작하게 되었습니다.\n\nROS2는 ROS(1)에 비해 전반적인 아키텍처와 미들웨어 네트워크의 신뢰성과 보안성이 크게 향상 되어 이제 상용 로봇을 제작하는데도 어려움이 없는 상용 엔지니어링 툴로 자리를 잡았습니다. \n\n요즘 일자리 부족 및 경제난으로 인해 배움에 어려움을 격고 계신 청년 분들에게 본 무료 강좌가 조금이나마 도움이 되었으면 좋겠습니다.\n\n교재는 Foxy ROS2 Tutorial 공식 문서를 가지고 진행할 예정 입니다. 아래 링크를 참고하세요.",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=nZUzYbUaX94&list=PLg93_MFmLWh3_i7-fNmFDKPfsZYzVtryE"
+    },
+    {
+        "title": "ROS2 : Introduction & Installation",
+        "channel_name": "Robotogeddon",
+        "description": "ROS2, the latest version of ROS or Robot Operating System is currently shaping the norms of the Robotics world. ROS2 is used in both research and industry and today and more than ever is the right time to learn it. In this video I will introduce you to ROS2 and I'll: \n- Show you ROS2's importance and how it's used for Robotics applications\n- Teach you how to install ROS2 on your local machine\n- Teach you how to install ROS2 packages\n\nShare This Video ▶ ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=QfFnljTrRlQ&list=PLNw2RD-1J5YZbyWXCpas9zPJldfphPi4Q"
+    },
+    {
+        "title": "01. What is ROS? Why ROS2?",
+        "channel_name": "Reflect Robotics",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=uwu61l92QUk&list=PL50Qb16q3h5r9p0SKCIeaUDLFRZs7MtG3"
+    },
+    {
+        "title": "Hướng dẫn cài đặt Ubuntu",
+        "channel_name": "LEARNING",
+        "description": "Link dowload: ",
+        "thumbnail": "https://i.ytimg.com/vi/Twsi0XNSsnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBowOhHtkl3v7O8zgN65l4QRtkCAA",
+        "source_url": "https://www.youtube.com/watch?v=shqDyfT65Q8&list=PLOyPUpsO8n2O0hKWL5Db8ASpcf7weeXnO"
+    },
+    {
+        "title": "[ PHP강좌 ] 준비물 - vs code 설치하기",
+        "channel_name": "디디웹(DeDeWeb)",
+        "description": "본 영상은 웹 개발을 독학으로 배우고자 하시는 분들을 위하여 제작하고 있습니다.\nHTML\nCSS\nJavascript\nPHP\nMySQL\n그외 웹 개반 기술\n\n위와 같은 주제로 강좌 영상을 만들어갈 예정 입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=3l6ivQlyhWA&list=PLDW68yr8aAbbMzOEQyWjpexrdsWKSXQiv"
+    },
+    {
+        "title": "1. PHP소개",
+        "channel_name": "왕초보 홈페이지만들기",
+        "description": "웹프로그래밍 언어인 PHP에 대해서 배웁니다.  Html, css, javascript를 미리 배우고 오시면 훨씬 도움이 됩니다. 왕초보를 위한 PHP 강좌가 준비되었습니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=_pgXmFIihAk&list=PLTb3qGCzYjS3YhVLi9C-RQ5emvrTYBgzm"
+    },
+    {
+        "title": "[PHP입문] PHP기초강좌 시작하기 전 입문강좌",
+        "channel_name": "쩡원의PHP",
+        "description": "블로그 :  ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=F8kksozefXg&list=PL_MBtYP3Jdewl6qp2ys12FYAtrTdRUf_7"
+    },
+    {
+        "title": "WEB2-PHP-1.수업소개",
+        "channel_name": "생활코딩",
+        "description": "PHP의 문법을 알려주는 수업입니다. 동시에 PHP로 할 수 있는 가장 중요한 일인 웹애플리케이션을 만드는 방법에 대한 수업이기도 합니다. \n\n전체수업과 소스코드는 아래 주소에 있습니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=Qh_6JheU_gY&list=PLuHgQVnccGMAMMNByX8Bf1BkVrShBhj1I"
+    },
+    {
+        "title": "객체 지향 프로그래밍이란?",
+        "channel_name": "생활코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=dy9yQIx38u8&list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6"
+    },
+    {
+        "title": "PHP 프로그래밍 1강 - PHP 개념과 XAMPP 개발환경 구축",
+        "channel_name": "정보박사컴퓨터자격증",
+        "description": "PHP 프로그래밍 1강 PHP 개념과 XAMPP 개발환경 구축\nXAMPP설치과정은 ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=Rj4G87ymco8&list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW"
+    },
+    {
+        "title": "[PHP강좌 기초 1강] 쩡원의 홈페이지 무작정 따라하기 APM설치",
+        "channel_name": "쩡원의PHP",
+        "description": "- PHP언어 기본 설명\n  -  PHP서버와 이해\n  - APM setup7 설치하기 와 함께 실행하기!\n\n* APM Setup 사이트가 폐쇄되었습니다.  APM Setup7 설치파일은\n \n▷홈페이지◁",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=cMHno3fykWc&list=PLerhEEFCihCb94dTSIHlVMbL4FPrnxSso"
+    },
+    {
+        "title": "WEB3 - PHP & MySQL : 1.수업소개",
+        "channel_name": "생활코딩",
+        "description": "모든 수업과 소스코드는 아래 주소에 있습니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=NChP-7KMQ_U&list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh"
+    },
+    {
+        "title": "윈도우 서버 2016 가상 환경에 설치와 기본 설정 3가지",
+        "channel_name": "보안프로젝트[boanproject]",
+        "description": "보안프로젝트( www.boanproject.com) 에서 제공하는 IT 강의입니다. 이번 강의 주제는 \"윈도우 서버 2016 가상 환경에 설치와 기본 설정 3가지\" 입니다.\n\nIT보안을 배우기 전에 기본 학습으로 하면 좋은 주제를 선정해서 기획을 했습니다. 가상 머신에 윈도우 서버를 구축한 후에 웹 서비스 개발 환경, AD 환경 등을 구축해나가면서 인프라를 이해하고 보안을 배우는 시간을 가지게 됩니다.",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=MkJ0IFaVoVM&list=PL1jdJcP6uQtuKYFkR0VfTfHN4H4NpRPZ9"
+    },
+    {
+        "title": "[ PHP 강좌 ] #1. 라라벨(Laravel) 기본 개념 및 구조",
+        "channel_name": "디디웹(DeDeWeb)",
+        "description": "php 의 프레임워크 중 하나인 라라벨(Laravel)을 배웁니다.\n=====================================================\n본 수업에서는 아래와 같이 배우게 됩니다.\n\n- 라라벨(Laravel)의 기본적인 구조와 개념을 익히는 시간 입니다.\n\n\n카페 : ",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=D99I9hesJeQ&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8"
+    },
+    {
+        "title": "php 01-소개",
+        "channel_name": "YGCK LOVE",
+        "description": "PHP Basic-기본\n처음 배우는 사람들에게는 추천합니다 ^^",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=d5T8ubMMWyE&list=PLi9WtDcAvajx08HjgW8YUvDqd3nXGAqVU"
+    },
+    {
+        "title": "[php기초] - 001 이원준의 컴퓨터 이야기 - 프로그래밍 시작 - 내 컴퓨터에 서버를 깔자 apmsetup",
+        "channel_name": "Wonjun Lee",
+        "description": "php 프로그래밍을 하기 위한 준비작업\n내 컴퓨터에 서버를 깔자!",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=dlsds6Nu_-4&list=PLHCkZhgaHKCVN-YGVkoK4nNj6U6nnvZl9"
+    },
+    {
+        "title": "[php기초] - 001 이원준의 컴퓨터 이야기 - 프로그래밍 시작 - 내 컴퓨터에 서버를 깔자 apmsetup",
+        "channel_name": "Wonjun Lee",
+        "description": "php 프로그래밍을 하기 위한 준비작업\n내 컴퓨터에 서버를 깔자!",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=dlsds6Nu_-4&list=PLWeAyJOCDtS53gP_UlV1SN7OyHe0CXLaw"
+    },
+    {
+        "title": "그누보드5/영카트5 이해를 위한 PHP 강좌 - PHP 구문",
+        "channel_name": "웹학교",
+        "description": "https://365ok.co.kr",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=FWW4g54jnJQ&list=PL-V2V8AVMjY9NU7IuvYBJpRMmXVIlA1Pm"
+    },
+    {
+        "title": "PHP 소개 및 설치",
+        "channel_name": "웹학교",
+        "description": "PHP강좌",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=EpGeLAdRF3s&list=PLdajQmV2DgoQw5wGSEjR7udKo1j9kBjGc"
+    },
+    {
+        "title": "PHP회원사이트만들기 #1, 세팅 및 약관 html 작성, PHP 강좌",
+        "channel_name": "왕초보 홈페이지만들기",
+        "description": "PHP를 이용하여 회원 가입 , 수정, 로그인, 로그아웃, 회원전용 게시판, 관리자 기능등을 구현해 볼 계획입니다. 쉽게 설명한 PHP 강좌를 보러 오세요.",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=hLoLjhEP13k&list=PLTb3qGCzYjS1sqYn00_g6t5W1Ikhn_dC4"
+    },
+    {
+        "title": "1. Laravel 기초, 라라벨 시작하기",
+        "channel_name": "왕초보 홈페이지만들기",
+        "description": "PHP의 훌륭한 프레임워크 라라벨에 대해서 알아 봅니다.\nlaravel10을 기준으로 영상을 제작하였습니다. Laravel 10 tutorial",
+        "thumbnail": "https://i.ytimg.com/vi/3l6ivQlyhWA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHG7ok0P91oBat8D33-cd6WYEldQ",
+        "source_url": "https://www.youtube.com/watch?v=6g8TfQEPwCQ&list=PLTb3qGCzYjS3qRYk3srTAyrHBnwbML_9m"
+    },
+    {
+        "title": "입문자를 위한 HTML 기초 강의 #0 강의 소개",
+        "channel_name": "유노코딩",
+        "description": "안녕하세요! 입문자를 위한 HTML 기초 강의입니다. \n입문자 분들이 부담없이 무료로 들을 수 있는 강의를 만들어보고 싶어서 시작한 강의입니다.\n(물론 그런 강의가 이미 많지만 저도 한 번 만들어보고 싶었어요^^;;)\n\n원래는 처음부터 끝까지 다 만들어놓은 다음 한꺼번에 업로드할 생각이었는데,\n그러면 왠지 미루고 미루다 끝내지 못할 것 같다는 생각이 들어서(ㅠ_ㅠ) \n시간 날 때마다 하나씩 만들고 천천히 업로드할 계획입니다. \n\n누구나 편하게 볼 수 있도록 다소 라이트한 느낌으로 만들 계획이고,\n동영상 15개로 구성된 약 2시간 짜리 강의가 될 예정이나 변동 가능성 있습니다.\n넉넉잡아 4월이 가기 전까지는 끝까지 다 올리는 것이 목표입니다.\n\n그럼 잘 부탁드리겠습니다.\n감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=8kJwTrs6e-4&list=PLFeNz2ojQZjtQc7mt8E9fNzIh9or34A61"
+    },
+    {
+        "title": "html기초00_HTML용어알기! 독학하지말고 같이하자!",
+        "channel_name": "이미니강사",
+        "description": "안녕하세요. 이미니강사입니다😎\nHTML기초00_HTML용어알고 가볍게 메모장 코딩해봅시다!\n순서대로 천천히 HTML을 익혀보세요:)\n\n여러분들의 좋아요! 구독!은 이미니강사의 힘이됩니다👍",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=AXlLlRLyx-Y&list=PLqUdVJG04WRZA_kaehl8Jhx7gyPEXvRWW"
+    },
+    {
+        "title": "HTML - 수업소개",
+        "channel_name": "생활코딩",
+        "description": "https://opentutorials.org/module/1892",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=OGFgdro160I&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB"
+    },
+    {
+        "title": "비쥬얼 스튜디오 코드(visual studio code) 설치 및 9개 익스텐션 추천!! - 프론트엔드 개발자 입문편 / 웹 개발 환경 설정",
+        "channel_name": "수코딩",
+        "description": "[22.03.27] \n영상에서 소개하고 있는 Bracket Pair Colorize가 VSCODE의 기본 기능으로 추가되었습니다. 기존의 Bracket Pair Colorize 플러그인을 삭제하시고 VSCODE 설정(윈도우  ctrl + , / 맥 cmd + , )을 눌르셔서 bracket pair로 검색하셔서 나오는 설정을 모두 체크 그리고 , true로 활성화 하시면 됩니다. \n\n최근 가장 떠오르고 있는 텍스트 에디터인 비쥬얼 스튜디오 코드(visual studio code)를 설치하고 9개의 익스텐션을 추천해 드립니다. 😊🙌\n\n이 영상만 보고 전부 따라 하면 웹 개발 환경 설정 끝!! 이제 여러분들도 프론트엔드 개발자 입문자! 앞으로 HTML, CSS, Javascript도 같이 공부해봐요!\n\n궁금한 질문 사항이나 의견은 댓글로 남겨주시면 전부 꼼꼼히 읽어보고 다음 강의 영상 올릴 때 참고하도록 하겠습니다. 😊\n\n그럼 오늘도 즐거운 프로그래밍되세요!\n\n비쥬얼 스튜디오 설치 참고 게시글 : ",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=ltvaJ6vr19M&list=PL-eeIUD86IjQuP9iDbQn_1eMHlPB_qdgY"
+    },
+    {
+        "title": "HTML & CSS 기초 강의 #1 오리엔테이션",
+        "channel_name": "이룸코딩 ErumCoding",
+        "description": "- Used ROYALTY-FREE music provided by YouTube Studio.\n- 한국출판인회의 KoPub 돋움 폰트 사용.\n- 자막 제작 브루 (Vrew) 사용.\n\n\n영상의 무단 도용, 2차 편집, 재업로드를 금지합니다. ⚠️",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=FV32OM3B49c&list=PLI33CnBTx2MYe0rqJ2nMSbfUqLmWIJtaV"
+    },
+    {
+        "title": "#1 웹디자이너가 코딩을 공부해야 하는 이유 - 웹 코딩 강좌",
+        "channel_name": "디자인베이스",
+        "description": "안녕하세요 디자인베이스입니다.\n드디어 웹 디자이너를 위한 웹 코딩 강좌를 시작합니다. 여러분이 코딩을 못하는 이유는 딱 한 가지입니다. 안해서 입니다. 왜냐? 흥미가 없기 때문에 안하게 되고 안하면 실력이 늘수가 없죠.\n디자인과는 성향이 완전 다르기 때문에 일반적으로 디자이너 분들이 코딩을 처음 접하면 어렵게 느끼는 것은 자연스러운 것입니다. 웹 개발을 공부한 디자이너로서 디자이너의 입장에서 최대한 이해와 흥미를 줄 수 있도록 고민해서 만든 강좌입니다.\n첫 시작은 당연히 웹 디자이너가 코딩을 공부해야 하는 이유부터 시작하겠습니다.\n\n🌟예제 다운은 멤버십 회원 전용 커뮤니티에 올린 링크에서 받으실 수 있습니다.🌟\n\n🚀 디자인베이스 멤버십 가입하면 다양한 고급 강좌와 예제 파일을 받아볼 수 있어요 🚀\n┗ ",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=7JUe5aHHFHo&list=PLkbzizJk4Ae_ZCinIZzwLf4XDh1NvjmyE"
+    },
+    {
+        "title": "HTML&CSS 강의 Ep00 - 강의소개 | 웹 개발 입문 | 함께 웹 개발에 입문해 보는건 어떨까요?",
+        "channel_name": "짐코딩 - 웹 개발 입문부터 실무까지",
+        "description": "#html",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=N_nVDZSAjq4&list=PLlaP-jSd-nK-ponbKDjrSn3BQG9MgHSKv"
+    },
+    {
+        "title": "브라켓설치",
+        "channel_name": "책 읽어주는퍼블리셔",
+        "description": "html이나 프로그래밍을 하여야 할 때 작성에 도움을 줄 수 있는 무료 편집프로그램입니다.\n\n브라켓 사이트",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=g6PYGYwlWuE&list=PLnQPL5a7-AIAUxupC-HTSBofNbJ99QdkG"
+    },
+    {
+        "title": "01 웹 개발 시작하기 | Do it! HTML+CSS+자바스크립트 웹 표준의 정석",
+        "channel_name": "이지스퍼블리싱",
+        "description": "[내용 구성]\n첫째마당 - 웹 개발 기본 다지기\n01 웹 개발 시작하기 | Do it! HTML+CSS+자바스크립트 웹 표준의 정석\n\n최신 웹 표준 기술인 HTML5, CSS3, 자바스크립트(ES6)로\n웹 기본기를 단단하게 쌓자!\n\n웹 개발 분야는 하루가 다르게 변하지만,\n웹 표준 기술인 HTML, CSS, 자바스크립트의 기본은 변하지 않습니다.\n그렇기에 웹 기술의 기본을 알면 개발이나 디자인을 하더라도,\n새로운 기술을 두려워할 필요가 없지요.\n\n《Do it! HTML+CSS+자바스크립트 웹 표준의 정석》은 웹에 입문한 사람들을 위해 HTML의 태그가 무엇인지부터 시작해 CSS, 자바스크립트의 고급 기술까지 \n다양한 개념을 간단명료한 예제와 함께 충분히 설명해줍니다.\n\n총 500여 개가 넘는 'Do it! 예제와 실습'을 하고 '한눈에 정리하기', \n'마무리 문제'까지 풀며 웹 기본기를 단단하게 쌓아 보세요.\n\n¶도서 자세히 보기 ▶",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is"
+    },
+    {
+        "title": "코딩이란? 프로그래밍 언어? 알고리즘? 기초 개념 정리해드립니다 (ft. 샌드위치 코딩)",
+        "channel_name": "조코딩 JoCoding",
+        "description": "이번 영상은 웹 개발 5주 완성 라이브 강의 편집본으로 코딩, 프로그래밍 언어, 알고리즘의 기초 개념을 샌드위치 코딩과 함께 정리하는 영상입니다. 5주만에 코딩 기초와 웹 프론트엔드부터 백엔드까지 모두 배울 수 있는 커리큘럼을 진행하니 구독, 좋아요 눌러두시고 많은 시청부탁드립니다!\n\n📖수업페이지: ",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=ZeD8yNMYe-o&list=PLU9-uwewPMe2-R9-taf4oIjwrEZDgE-q2"
+    },
+    {
+        "title": "HTML 기초, React 할때 꼭 필요한 팁! 쉽다고 무시하면 안돼요 | 프론트엔드 개발자 입문편: HTML, CSS, Javascript",
+        "channel_name": "드림코딩",
+        "description": "React같은 프레임워크를 배우기전에 정말 기본중의 기본 HTML과 웹사이트를 분석할 수 있는 스킬을 잘 다지셔야 해요 ❤️  (↙ 자세한 내용)\n___________________________\n\n💡 풀스택 개발 로드맵 ⇢ ",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=i0FN-OwJ7QI&list=PLRmsbBgKJUGDO1R9EHKV9_Q_81np54lCy"
+    },
+    {
+        "title": "HTML 기초 3회: 문서, 텍스트 색상 설정",
+        "channel_name": "Sean Kweon",
+        "description": "문서에 포함된 텍스트 문자열을 바꾸는 방법을 알아봅니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=8q0o6Skg0BE&list=PL4KevJiW8PhAFBNG9mbaFsZdUaasH41IM"
+    },
+    {
+        "title": "[코딩 자율학습 HTML + CSS + 자바스크립트] 1장 Hello, HTML+CSS+자바스크립트 - 1",
+        "channel_name": "길벗IT",
+        "description": "[코딩 자율학습 HTML + CSS + 자바스크립트] 1장 첫 번째 강의입니다.\n\n강의 범위\n1.1 개발 환경 설정하기\n-----------------------------------------------------------------\n수코딩 채널에서도 강의를 만나볼 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=OdMfUv-BFT4&list=PLRtkynNyEsXnoY9KbbbLF9dPGGARLkCyU"
+    },
+    {
+        "title": "HTML 기초 강의 - 07.컨테이너 나누기",
+        "channel_name": "성공코딩",
+        "description": "7강 블로그 글",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=315modR_o-I&list=PL1sAo94L5mPK56uOp0zlvieciBugWriOx"
+    },
+    {
+        "title": "진짜 웹개발로 배우는 실용 자바스크립트 1강 : 셀렉터 selector",
+        "channel_name": "코딩애플",
+        "description": "전체강의와 예제코드는 여기서 이용가능합니다 ",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=8rv8GTgYYrU&list=PLfLgtT94nNq0svPBSslzReYKbZRuv_-NK"
+    },
+    {
+        "title": "#html5 #코딩 웹표준을 따르는 구조만들기 1",
+        "channel_name": "이병학",
+        "description": "html은 표준 규격 문서를 제시합니다. 그 버전은 3.0이후 4.0, 5.0, 5.3 등 지속적으로 발전하고 있습니다. 이 규격의 에디터로 구글, 애플 등 브라우저 제작사에서 참여하고 있으며 브라우저는 이러한 표준 규격에 맞추어 만들어집니다. 최근에는 버전이 아닌 living standard라는 규격으로 수시로 업데이트되고 있는 상황입니다. 이 규격에 따라 퍼블리싱하는 것을 웹표준을 준수한다라고 합니다. 이 규격 문서는 매우 방대하기 때문에 모든 내용을 숙지하기란 거의 불가능하지만 기본적 구조 작성에 있어서는 되도록 웹표준을 준수하는 것이 다양한 브라우저에서의 호환 가능성을 살릴 수 있는 방법입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=sN2DrUdnwyg&list=PLQSIBdTe44xzcwiwh80Ej--q5xCg7ruup"
+    },
+    {
+        "title": "HTML5&CSS3 기초 1강 HTML5의 개요 및 개발환경 구축 | T아카데미",
+        "channel_name": "SKplanet Tacademy",
+        "description": "T아카데미 HTML5&CSS3 기초 강의입니다.\n1강 HTML5의 개요 및 개발환경 구축\n- 웹이란? \n- HTML5란? (HTML5의 개발 배경)\n- 웹 표준이란?\n- HTML과 XHTML의 차이\n- HTML5의 특징\n- CSS3란?\n- HTML5와 CSS3\n- 개발 도구 익히기\n- HTML문서 무작정 만들어 보기\n- 무료 웹 호스팅 신청하기\n- FTP란?\n- FTP client 프로그램 설치 및 사용방법\n- 서버(웹)에서 HTML문서 확인\n- 구글 크롬 설치\n- 개발자 도구\n2강 HTML5 태그 1 (HTML5 기본 태그 및 아이디 속성을 이용한 페이지 제작)\n3강 HTML5 태그 2 (목록 구성 태그)\n4강 HTML5 태그 3 (데이터 전송 및 이미지 태그)\n5강 HTML5 태그 4 (HTML5 레이아웃 및 시멘틱 웹페이지 제작)\n6강 HTML5 태그 5 (HTML5 멀티미디어)\n7강 CSS3 선택자 1 (스타일 기초 및 필수 선택자)\n8강 CSS3 선택자 2 (알아두면 편리한 다양한 선택자)\n9강 CSS3 속성 1 (가시상태 속성)\n10강 CSS3 속성 2 (레이아웃 관련 속성)\n11강 CSS3 속성 3 (위치 관련 및 알아두면 편리한 속성)\n12강 CSS3 속성 4 (변형 속성 및 PC용 웹사이트 제작 ①)\n13강 CSS3 속성 4 (PC용 웹사이트 제작 ②)\n14강 CSS3 규칙\n15강 모바일 개발 환경 및 뷰포트\n16강 반응형 웹사이트 제작\n17강 태블릿 레이아웃 제작\n18강 유동형 웹사이트 제작\n19강 그리드 시스템\n20강 SPA (Single Page Application)\n\n\n이 밖에 다양한 IT 강좌를 T아카데미 홈페이지(tacademy.sktechx.com) 및 유투브 채널 (Sktechx Tacademy)에서 만나보실 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=7Iu97_wUF7U&list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79"
+    },
+    {
+        "title": "#html5 #코딩 웹표준을 따르는 구조만들기 1",
+        "channel_name": "이병학",
+        "description": "html은 표준 규격 문서를 제시합니다. 그 버전은 3.0이후 4.0, 5.0, 5.3 등 지속적으로 발전하고 있습니다. 이 규격의 에디터로 구글, 애플 등 브라우저 제작사에서 참여하고 있으며 브라우저는 이러한 표준 규격에 맞추어 만들어집니다. 최근에는 버전이 아닌 living standard라는 규격으로 수시로 업데이트되고 있는 상황입니다. 이 규격에 따라 퍼블리싱하는 것을 웹표준을 준수한다라고 합니다. 이 규격 문서는 매우 방대하기 때문에 모든 내용을 숙지하기란 거의 불가능하지만 기본적 구조 작성에 있어서는 되도록 웹표준을 준수하는 것이 다양한 브라우저에서의 호환 가능성을 살릴 수 있는 방법입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=sN2DrUdnwyg&list=PLQSIBdTe44xzcwiwh80Ej--q5xCg7ruup"
+    },
+    {
+        "title": "HTML5&CSS3 기초 1강 HTML5의 개요 및 개발환경 구축 | T아카데미",
+        "channel_name": "SKplanet Tacademy",
+        "description": "T아카데미 HTML5&CSS3 기초 강의입니다.\n1강 HTML5의 개요 및 개발환경 구축\n- 웹이란? \n- HTML5란? (HTML5의 개발 배경)\n- 웹 표준이란?\n- HTML과 XHTML의 차이\n- HTML5의 특징\n- CSS3란?\n- HTML5와 CSS3\n- 개발 도구 익히기\n- HTML문서 무작정 만들어 보기\n- 무료 웹 호스팅 신청하기\n- FTP란?\n- FTP client 프로그램 설치 및 사용방법\n- 서버(웹)에서 HTML문서 확인\n- 구글 크롬 설치\n- 개발자 도구\n2강 HTML5 태그 1 (HTML5 기본 태그 및 아이디 속성을 이용한 페이지 제작)\n3강 HTML5 태그 2 (목록 구성 태그)\n4강 HTML5 태그 3 (데이터 전송 및 이미지 태그)\n5강 HTML5 태그 4 (HTML5 레이아웃 및 시멘틱 웹페이지 제작)\n6강 HTML5 태그 5 (HTML5 멀티미디어)\n7강 CSS3 선택자 1 (스타일 기초 및 필수 선택자)\n8강 CSS3 선택자 2 (알아두면 편리한 다양한 선택자)\n9강 CSS3 속성 1 (가시상태 속성)\n10강 CSS3 속성 2 (레이아웃 관련 속성)\n11강 CSS3 속성 3 (위치 관련 및 알아두면 편리한 속성)\n12강 CSS3 속성 4 (변형 속성 및 PC용 웹사이트 제작 ①)\n13강 CSS3 속성 4 (PC용 웹사이트 제작 ②)\n14강 CSS3 규칙\n15강 모바일 개발 환경 및 뷰포트\n16강 반응형 웹사이트 제작\n17강 태블릿 레이아웃 제작\n18강 유동형 웹사이트 제작\n19강 그리드 시스템\n20강 SPA (Single Page Application)\n\n\n이 밖에 다양한 IT 강좌를 T아카데미 홈페이지(tacademy.sktechx.com) 및 유투브 채널 (Sktechx Tacademy)에서 만나보실 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=7Iu97_wUF7U&list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79"
+    },
+    {
+        "title": "2020 html css 웹퍼블리싱 기초 1",
+        "channel_name": "hknudesign",
+        "description": "html과 css를 사용해 웹페이지를 퍼블리싱하는 기초 마크업 원리 및 서브라임텍스트(sublimetext)를 활용한 기본 코드작성",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=y-DQHhLYyjk&list=PLP6lhRXHC0JtRsyrXWtk75o0zSuRZNhNU"
+    },
+    {
+        "title": "프론트엔드 웹 코딩 - 코딩이란 무엇일까? 코딩 개념, 기초, 웹 코딩에 대한 소개. 프로그래머, 개발자가 되고 싶다면 필수로 들어야 할 코딩강의",
+        "channel_name": "쁘띠 코딩",
+        "description": "쁘띠코딩 프론트엔드 개발 기초, 첫번째 강의: 인트로\n😊 프로그래머가 되고 싶으세요? \n⌨️간단한 코딩을 하고 싶으신가요? \n🙌그런 분들을 위해 쁘띠 코딩이 준비했습니다! \n😘만화로 배워보는 쉽고 간단한 웹 코딩\n😎누구나 웹페이지를 만들 수 있어요!",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=oUHyXl2XQJM&list=PLOroERczR_BT3gpj-xMIM5QBDGL3Z49Md"
+    },
+    {
+        "title": "HTML-CSS 소개",
+        "channel_name": "홍팍",
+        "description": "#HTML",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=cymOh2_tqWs&list=PLyebPLlVYXCgc3S1HcqOMr5MOrt3wDlb-"
+    },
+    {
+        "title": "HTML/CSS편 인트로 (with CLOVA Dubbing)",
+        "channel_name": "오쌤의 니가스터디",
+        "description": "HTML과 CSS를 강의하기 전,\n인트로 영상입니다.\n처음 접하시는 분들도, \n예전에 배우셨던 분들도,\n쉽게 배울 수 있는 예제 영상들을\n앞으로 올릴 예정입니다.\n\n\n\n\n\n\n\n============================================================\n◈ 일부 컨텐츠들은 네이버의 미리캔버스에서 가져온 무료 컨텐츠입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=apmhRQiBZBA&list=PLdwQP35_Nz9cSl-g9JC6Kij8tw55u2_Ni"
+    },
+    {
+        "title": "[1] HTML 페이지 간단하게 만들어 보기. Visual studio code깔고 그대로 따라하면 됩니다. 기초적인 HTML 태그 설명 있습니다.",
+        "channel_name": "KodeJUN",
+        "description": "아주 간단한 HTML 페이지를 만들어 봅니다. HTML 페이지의 구조와 태그들에 대해서 설명합니다. \n코딩은 이것저것 좀 해봐서 아는데, 웹에 대해서는 HTML이 뭔지만 희미하게 아는 사람들을 위한 초단기 웹 (HTML/CSS/Javascript)강좌입니다.\n\nVisual Studio Code 에디터 환경에서 진행합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=OvqpvxRKUFM&list=PLwsSnOYjEpejojnNxqiR9EYWAsOgv2--V"
+    },
+    {
+        "title": "26강 - 실습 (그리드 박스) [입문자를 위한 HTML과 CSS 기초 강의]",
+        "channel_name": "안되면 될때까지, 근성가이!",
+        "description": "더 많은 강의는? '서울 유 에듀'에서 들으실수 있습니다.\n\n처음으로 프로그래밍을 시작하는 분들을 위한 웹 개발 입문 강의입니다.\n\n웹 페이지 제작에서 가장 기본이 되는 언어로 학습을 시작해야 합니다.\n\n HTML은 웹 페이지의 내용 구조를 정의하고, CSS는 디자인을 꾸며줍니다. \n\n이 두 언어를 배우면 웹 페이지를 제작하는 데 필요한 기초를 다질 수 있습니다.\n\n저는 이 강의 절대 많은 것들을 알려드리지 않을 것입니다.  개발을 위해 학습해야 하는 분량을 상상을 초월하기 때문입니다.\n\n모든 개념을 한번에 다 익혀서 개발을 시작하는 방법보다는 전체적인 개념을 학습하고 이후 추가 학습을 통해 지식을 확장해 나가는 것이 더 효율적입니다\n\n이 강의를 들은 이후에 학습해야 하는 분량은 매우 많을 것이며, 강의를 들은 이후에 어떤 서비스를 바로 구축하는 것 역시 힘들 것 입니다.\n\n하지만, 이 강의를 듣고 난 이후엔 여러분이 생각하는 목표에 한 단계 더 다가간 상태가 될 것입니다.\n\n모두에게 건투를 빕니다.\n\n강의 목차\n\nHTML \n\n1강 - HTML이란?\n2강 - 서식태그\n3강 - 리스트 태그\n4강 - 블록 & 인라인 태그\n5강 - 하이퍼 미디어\n6강 - 테이블\n7강 - 실습(서식 태그 ~ 하이퍼 미디어)\n8강 - 실습 (테이블)\n9강 - 폼 \n10강 - 실습 (회원가입)\n11강 - 메타 태그\n12강 - 아이프레임\n\nCSS\n\n13강 - CSS란?\n14강 - CSS 선언\n15강 - 실습 (CSS 적용)\n16강 - 폰트 스타일\n17강 - 크기\n18강 - 선택자\n19강 - 실습 (선택자 & 크기)\n20강 - 마진 & 패딩\n21강 - 위치\n22강 - 실습 (마진 & 패딩 & 위치)\n23강 - 플렉스 박스\n24강 - 실습 ( 플렉스 박스)\n25강 - 그리드 박스\n26강 - 실습 (그리드 박스)",
+        "thumbnail": "https://i.ytimg.com/vi/8kJwTrs6e-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdIy1c_T-uiCyhSCMnDVWzqIsvhA",
+        "source_url": "https://www.youtube.com/watch?v=cr9Bm3RtUWo&list=PLjzZb_iU5M2KttqWS-Lkg8BmxTqnVzwvZ"
+    },
+    {
+        "title": "html기초00_HTML용어알기! 독학하지말고 같이하자!",
+        "channel_name": "이미니강사",
+        "description": "안녕하세요. 이미니강사입니다😎\nHTML기초00_HTML용어알고 가볍게 메모장 코딩해봅시다!\n순서대로 천천히 HTML을 익혀보세요:)\n\n여러분들의 좋아요! 구독!은 이미니강사의 힘이됩니다👍",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=AXlLlRLyx-Y&list=PLqUdVJG04WRZA_kaehl8Jhx7gyPEXvRWW"
+    },
+    {
+        "title": "HTML & CSS 기초 강의 #1 오리엔테이션",
+        "channel_name": "이룸코딩 ErumCoding",
+        "description": "- Used ROYALTY-FREE music provided by YouTube Studio.\n- 한국출판인회의 KoPub 돋움 폰트 사용.\n- 자막 제작 브루 (Vrew) 사용.\n\n\n영상의 무단 도용, 2차 편집, 재업로드를 금지합니다. ⚠️",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=FV32OM3B49c&list=PLI33CnBTx2MYe0rqJ2nMSbfUqLmWIJtaV"
+    },
+    {
+        "title": "HTML&CSS 강의 Ep00 - 강의소개 | 웹 개발 입문 | 함께 웹 개발에 입문해 보는건 어떨까요?",
+        "channel_name": "짐코딩 - 웹 개발 입문부터 실무까지",
+        "description": "#html",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=N_nVDZSAjq4&list=PLlaP-jSd-nK-ponbKDjrSn3BQG9MgHSKv"
+    },
+    {
+        "title": "26강 - 실습 (그리드 박스) [입문자를 위한 HTML과 CSS 기초 강의]",
+        "channel_name": "안되면 될때까지, 근성가이!",
+        "description": "더 많은 강의는? '서울 유 에듀'에서 들으실수 있습니다.\n\n처음으로 프로그래밍을 시작하는 분들을 위한 웹 개발 입문 강의입니다.\n\n웹 페이지 제작에서 가장 기본이 되는 언어로 학습을 시작해야 합니다.\n\n HTML은 웹 페이지의 내용 구조를 정의하고, CSS는 디자인을 꾸며줍니다. \n\n이 두 언어를 배우면 웹 페이지를 제작하는 데 필요한 기초를 다질 수 있습니다.\n\n저는 이 강의 절대 많은 것들을 알려드리지 않을 것입니다.  개발을 위해 학습해야 하는 분량을 상상을 초월하기 때문입니다.\n\n모든 개념을 한번에 다 익혀서 개발을 시작하는 방법보다는 전체적인 개념을 학습하고 이후 추가 학습을 통해 지식을 확장해 나가는 것이 더 효율적입니다\n\n이 강의를 들은 이후에 학습해야 하는 분량은 매우 많을 것이며, 강의를 들은 이후에 어떤 서비스를 바로 구축하는 것 역시 힘들 것 입니다.\n\n하지만, 이 강의를 듣고 난 이후엔 여러분이 생각하는 목표에 한 단계 더 다가간 상태가 될 것입니다.\n\n모두에게 건투를 빕니다.\n\n강의 목차\n\nHTML \n\n1강 - HTML이란?\n2강 - 서식태그\n3강 - 리스트 태그\n4강 - 블록 & 인라인 태그\n5강 - 하이퍼 미디어\n6강 - 테이블\n7강 - 실습(서식 태그 ~ 하이퍼 미디어)\n8강 - 실습 (테이블)\n9강 - 폼 \n10강 - 실습 (회원가입)\n11강 - 메타 태그\n12강 - 아이프레임\n\nCSS\n\n13강 - CSS란?\n14강 - CSS 선언\n15강 - 실습 (CSS 적용)\n16강 - 폰트 스타일\n17강 - 크기\n18강 - 선택자\n19강 - 실습 (선택자 & 크기)\n20강 - 마진 & 패딩\n21강 - 위치\n22강 - 실습 (마진 & 패딩 & 위치)\n23강 - 플렉스 박스\n24강 - 실습 ( 플렉스 박스)\n25강 - 그리드 박스\n26강 - 실습 (그리드 박스)",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=cr9Bm3RtUWo&list=PLjzZb_iU5M2KttqWS-Lkg8BmxTqnVzwvZ"
+    },
+    {
+        "title": "CSS 001 Intro",
+        "channel_name": "Team Jupeter",
+        "description": "Real Time Korea",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=Hmm_9l3nK4s&list=PLlSZlNj22M7S3hCjQfWDe7bbfUSkZdclZ"
+    },
+    {
+        "title": "2020 html css 웹퍼블리싱 기초 1",
+        "channel_name": "hknudesign",
+        "description": "html과 css를 사용해 웹페이지를 퍼블리싱하는 기초 마크업 원리 및 서브라임텍스트(sublimetext)를 활용한 기본 코드작성",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=y-DQHhLYyjk&list=PLP6lhRXHC0JtRsyrXWtk75o0zSuRZNhNU"
+    },
+    {
+        "title": "23 07 12, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=EWSxiCkMDwM&list=PLmAWMAo-opQxRBoBJuaNwInnzPdBMW85I"
+    },
+    {
+        "title": "22 09 14, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=h9RNCUCSLBc&list=PLmAWMAo-opQzpUj_GfDvRuNHoNMjlqsWK"
+    },
+    {
+        "title": "22 12 09, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=B4HhuGv7DFk&list=PLmAWMAo-opQyzSE-N9LGBA8-6cesI6TeH"
+    },
+    {
+        "title": "22 11 10, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=qPFPDf_9XQs&list=PLmAWMAo-opQyma2DpnGXcAwuaB78uE1i8"
+    },
+    {
+        "title": "2022-06-10, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=6jnAg6QJW8Q&list=PLmAWMAo-opQzY4km61icyn6Gft3imZ8D1"
+    },
+    {
+        "title": "3 02 13, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=mtiKodkgJ6c&list=PLmAWMAo-opQyN3CpWkf_yamnehNrm11MK"
+    },
+    {
+        "title": "2022-03-16 HTML, CSS 강좌, 10강, 배경색이 red인 사각형 만들기",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=gubQwtHj9qU&list=PLmAWMAo-opQxZJibSxTa-2mQu0LXkxXSH"
+    },
+    {
+        "title": "23 05 12, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=k-S6uylz6nk&list=PLmAWMAo-opQySJ7_8TjZ9vgePALIJzSft"
+    },
+    {
+        "title": "CSS 001 Intro",
+        "channel_name": "Team Jupeter",
+        "description": "Real Time Korea",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=Hmm_9l3nK4s&list=PLlSZlNj22M7Qzmex367Xh-jXvARnmOXaS"
+    },
+    {
+        "title": "23 12 06, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=dQzMWEm8Y_c&list=PLmAWMAo-opQyDDuSncCVprD0pCU-MZ_tE"
+    },
+    {
+        "title": "Tailwind CSS 01 소개와 개념 설명",
+        "channel_name": "\b피클, The 피어클래스",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=svL_A3suckE&list=PLjW7a2f7vPPYgLRLhYw60SALDWkcTCpet"
+    },
+    {
+        "title": "프론트엔드 웹 코딩 - 코딩이란 무엇일까? 코딩 개념, 기초, 웹 코딩에 대한 소개. 프로그래머, 개발자가 되고 싶다면 필수로 들어야 할 코딩강의",
+        "channel_name": "쁘띠 코딩",
+        "description": "쁘띠코딩 프론트엔드 개발 기초, 첫번째 강의: 인트로\n😊 프로그래머가 되고 싶으세요? \n⌨️간단한 코딩을 하고 싶으신가요? \n🙌그런 분들을 위해 쁘띠 코딩이 준비했습니다! \n😘만화로 배워보는 쉽고 간단한 웹 코딩\n😎누구나 웹페이지를 만들 수 있어요!",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=oUHyXl2XQJM&list=PLOroERczR_BT3gpj-xMIM5QBDGL3Z49Md"
+    },
+    {
+        "title": "24 03 13, HTML, CSS 강좌, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=RVTbm9lIZvY&list=PLmAWMAo-opQwMzU4zsaIugvBAmfR4RoHc"
+    },
+    {
+        "title": "HTML/CSS편 인트로 (with CLOVA Dubbing)",
+        "channel_name": "오쌤의 니가스터디",
+        "description": "HTML과 CSS를 강의하기 전,\n인트로 영상입니다.\n처음 접하시는 분들도, \n예전에 배우셨던 분들도,\n쉽게 배울 수 있는 예제 영상들을\n앞으로 올릴 예정입니다.\n\n\n\n\n\n\n\n============================================================\n◈ 일부 컨텐츠들은 네이버의 미리캔버스에서 가져온 무료 컨텐츠입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=apmhRQiBZBA&list=PLdwQP35_Nz9cSl-g9JC6Kij8tw55u2_Ni"
+    },
+    {
+        "title": "[코딩 자율학습_HTML+CSS+자바스크립트] 북 트레일러",
+        "channel_name": "수코딩",
+        "description": "이번에 제가 출간하게 된 [코딩 자율학습_HTML+CSS+자바스크립트] 책의 북 트레일러를 공개합니다. ✨👏🎉 \n\n프론트엔드 개발자로 입문하려고 한다면 무조건 봐야하는 기초 입문서 😁\n현업 개발자이자 수코딩 채널의 운영자가 작심하고 집필한 책이 출간하는데, 이거 안보고 공부하시려구요..??!😅\n\n책 출간일과 동시에 58개의 무료 기초 강의까지 한 번에 올라가는데, 먼 길 돌아가지마시고  [코딩 자율학습_HTML+CSS+자바스크립트]과 함께 빠르고 쉽게 공부하세요! 😍\n\n현재 아래의 온라인 서점에서 예약 구매 가능합니다. 🙏\n\n-----------------------------------------------------------------\n_교보문고  ",
+        "thumbnail": "https://i.ytimg.com/vi/576Bt8CVVJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcK6FV0ztgooZWrgUBu5uXV6Ab8g",
+        "source_url": "https://www.youtube.com/watch?v=-I2wbn9Q6mA&list=PL-eeIUD86IjTH1qT8qdHXDm-FfOnm7a_U"
+    },
+    {
+        "title": "#01 미운코딩새끼 | 파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩",
+        "channel_name": "김왼손의 왼손코딩",
+        "description": "대학 새내기 시절 코딩이 너무 어려웠습니다. 잘해보려 아등바등 노력해 봤지만 매번 실패하다가 결국 미워하게 돼버렸습니다. 지금 돌아보면 그렇게 미워할 정도는 아니었는데 말이죠. 지금도 저와 같은 고민을 하는 분들이 많을 거라고 생각합니다. 그 때 그 시절 이런 강의가 있었으면 어땠을까 하는 마음으로 만든 강의가 바로 미운코딩새끼입니다.\n\n미운코딩새끼는 코딩이 너무 어려워 포기한 분, 또는 코딩을 처음 접하는 분을 위한 강의입니다. 파이썬이라는 프로그래밍 언어의 기초 문법을 쉽게 배울 수 있습니다. 코딩을 왜 배워야 하는지, 왜 필요한지에 대해서 답을 주지는 않지만 코딩이란 이런 거구나, 파이썬이란 이런 거구나 하는 정도의 감을 잡을 수 있습니다. 코딩은 쉽지 않습니다. 그렇기 때문에 처음 시작하는 분들에게는 정말 쉬운 강의가 필요합니다. 미운코딩새끼는 파이썬의 모든 것을 가르쳐 주지 않습니다. 대신 가장 중요하고 자주 쓰는 문법만 빠르고 가볍게 다룹니다. 코딩을 처음 접하는 분들도 단숨에 끝낼 수 있습니다. 과정 후 파이썬을 더 공부할 마음이 든다면 혼자서 얼마든지 공부할 수 있습니다.\n\n자, 그럼 이제 김왼손과 함께 파이썬의 매력 속으로 풍덩 빠져볼까요? :)\n\n/학습목표\n파이썬의 기초를 쉽게 배울 수 있습니다.\n파이썬이 뭔지, 코딩이 뭔지 감을 잡게 됩니다.\n혼자서도 코딩을 공부할 수 있는 법을 배웁니다.\n다음 단계를 위한 준비를 할 수 있습니다.\n컴퓨터처럼 문제를 해결하는 방법을 배웁니다.\n나도 할 수 있다는 자신감을 얻게 됩니다.\n\n/도움이 되는 분들\n코딩을 한 번도 해본 적 없는 분\n아무리 열심히 해도 코딩이 어려운 분\n코딩이라는게 뭔지 맛보고 싶은 분\n반복되는 포기로 코딩이 미워지려고 하는 분\n\n* 미운코딩새끼의 업그레이드 버전인 한입에 쏙 파이썬이 나왔습니다.\n\n/한입에 쏙 파이썬 재생목록",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww"
+    },
+    {
+        "title": "파이썬 다운로드 설치 실행 하는 법 - 최신 버전 업데이트 했습니다!! (윈도우, 맥)",
+        "channel_name": "스타트코딩",
+        "description": "파이썬 다운로드 설치 실행 하는 법을 알려드립니다.\n\n파이썬 다운로드 및 설치 따라해 보시고 실행 시 오류나 질문이 있으면\n언제든지 댓글 남겨 주세요. \n최대한 빠르게 답변 드립니다.\n\n어렵고 불친절한 코딩 강의에 지치셨나요? \n스타트코딩이 여러분들을 힘껏 도와 드리겠습니다. \n\n--------------------------------------------------------------------------------------\n★ 한번 알면 평생 쓰는 코딩 기술 ‘파이썬’ 대공략집! ★\n유튜브 영상 보는 곳",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=PlMpk-If9jA&list=PLNO7MWpu0eeVfqT9ehXWf9CdRALusjUsU"
+    },
+    {
+        "title": "파이썬프로그래밍L0101 : 프로그래밍과 Python",
+        "channel_name": "국민대학교 경영대학원",
+        "description": "L01. 프로그래밍 개요\n01 프로그래밍과 Python",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=jTRRZ7vZu7c&list=PLVcqeMw1rSXW3uJR_W5NZ3I1_SX_ra2zN"
+    },
+    {
+        "title": "[코랩_파이썬 기초] 01.코랩설치/파이썬처음시작하기",
+        "channel_name": "처음맨",
+        "description": "[코랩_파이썬 기초] 구글코랩으로 파이썬을 처음 공부하시는 분들을 위한 입문용 강의입니다.\n파이썬의 기본 구조를 익히고, 이를 활용한 [데이터분석]에 관한 쉬운 해설강의를 진행합니다.\nPython, Numpy, Pandas, Matplotlip 등의 기본 활용을 위한 입문용 수업입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=RyvPOtrMmNs&list=PL5PvL44pDBBs1Bwjw1lfGsjHYs3eCkzCn"
+    },
+    {
+        "title": "[데이터 분석 기초 강의] 0강. 『혼자 공부하는 데이터 분석 with 파이썬』 소개",
+        "channel_name": "한빛미디어",
+        "description": "박해선 저자님과 함께하는 『혼자 공부하는 데이터 분석 with 파이썬』 강의 소개 영상입니다. 내가 지금 회사인가? 착각을 불러일으키는 현장감 넘치는 스토리! 혼공출판사의 직원이 되어 데이터 분석 업무의 A부터 Z까지 하나씩 해결해 볼까요!\n\n👀도서 자세히 보기: ",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=qGE_rT_oQaQ&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXgS7k"
+    },
+    {
+        "title": "[모두의 인공지능 with 파이썬] Unit 01 인공지능 개념 이해하기",
+        "channel_name": "길벗IT",
+        "description": "Unit 01 인공지능 개념 이해하기\n\n▶[모두의 인공지능 with 파이썬] 도서 보기",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=kUCBHY65rH0&list=PLRtkynNyEsXnu5XCR_sd37GQJ3ODlE4bU"
+    },
+    {
+        "title": "초보자를 위한 파이썬 강의/기초 300 문제 같이 풀어보기 Intro 소개",
+        "channel_name": "파이스탁",
+        "description": "\"파이썬, 언제까지 앞부분만 배우고, 또 배우고 하실 껀가요?\"\n\n✔ 파이스탁, 조대표에게 배우는 파이썬 강의/기초 300제 풀어보기\n✔ 이 모든게 무료라고? 위키독스 '초보자를 파이썬 300제'\n✔ 파이썬 300문제 풀고, 조대표의 핵심 해설과 답안 풀이까지!\n\n 파이썬 300제 풀고, 나도 오늘부터 파이썬 중급자!!\n\n👉 파이썬 300제, 같이 풀고 실력 쑥쑥 키우고 싶다면?",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=SiK4iYt_7-s&list=PLNPt2ycoheHqhS_OP4XA8nWycWQWnQtki"
+    },
+    {
+        "title": "Python 프로그래밍 기초 1강 파이썬 개요 및 설치 | T아카데미",
+        "channel_name": "SKplanet Tacademy",
+        "description": "T아카데미 Python 프로그래밍 기초 강의입니다.\n\n1강 파이썬 개요 및 설치\n- 파이썬의 특징\n- 파이썬의 종류 및 버전 차이\n- 설치 및 개발환경\n\n2강 자료형 및 연산자\n3강 함수\n4강 제어\n5강 클래스\n6강 모듈\n7강 예외 처리\n8강 입출력\n9강 문자열 다루기 \n10강 날짜 다루기\n11강 숫자 다루기\n12강 파일 시스템\n13강 데이터베이스\n14강 운영체제 관련 기능\n15강 문법 총정리 및 프로젝트\n\n\n\n이 밖에 다양한 IT 강좌를 T아카데미 홈페이지(tacademy.sktechx.com) 및 유투브 채널 (Sktechx Tacademy)에서 만나보실 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=8WuaFPyap2E&list=PL9mhQYIlKEhdP2Ci5GUcBuvo4z93Qpv5V"
+    },
+    {
+        "title": "Python 프로그래밍 기초 1강 파이썬 개요 및 설치 | T아카데미",
+        "channel_name": "SKplanet Tacademy",
+        "description": "T아카데미 Python 프로그래밍 기초 강의입니다.\n\n1강 파이썬 개요 및 설치\n- 파이썬의 특징\n- 파이썬의 종류 및 버전 차이\n- 설치 및 개발환경\n\n2강 자료형 및 연산자\n3강 함수\n4강 제어\n5강 클래스\n6강 모듈\n7강 예외 처리\n8강 입출력\n9강 문자열 다루기 \n10강 날짜 다루기\n11강 숫자 다루기\n12강 파일 시스템\n13강 데이터베이스\n14강 운영체제 관련 기능\n15강 문법 총정리 및 프로젝트\n\n\n\n이 밖에 다양한 IT 강좌를 T아카데미 홈페이지(tacademy.sktechx.com) 및 유투브 채널 (Sktechx Tacademy)에서 만나보실 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=8WuaFPyap2E&list=PL9mhQYIlKEhdP2Ci5GUcBuvo4z93Qpv5V"
+    },
+    {
+        "title": "파이썬 강좌 | Python MOOC | 데이터과학을 위한 파이썬 입문 Intro",
+        "channel_name": "TeamLab",
+        "description": "기존 강좌를 업데이트하여 인프런에 새롭게 강좌를 오픈하였습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=EyAHKYqrEe8&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz"
+    },
+    {
+        "title": "24 08 14, 파이썬 기초, 1강, 수업소개",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/UMfCZMuZoRk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-x2j8mkJXgRFDhNJRGkUQCECPlg",
+        "source_url": "https://www.youtube.com/watch?v=xvPrqruipnI&list=PLmAWMAo-opQwP1YMAAvFaTonBT5LeFu2G"
+    },
+    {
+        "title": "자바스크립트 기초 강좌 #1 - 변수",
+        "channel_name": "코딩앙마",
+        "description": "안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 변수가 무엇인지 알아보고, let 과 const 를 배워봅시다.\n\n----------------------------------------\n\n이 수업은 기초 자바스크립트 수업으로, 완전 초보자를 대상으로 진행합니다.\nThis video is a JavaScript(ES6) tutorial for beginners.\n\n재생목록 링크 : ",
+        "thumbnail": "https://i.ytimg.com/vi/E-PzX2mKGUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcZdwuoJKsWOw77KynncUc7-8rJw",
+        "source_url": "https://www.youtube.com/watch?v=P0FY8k916e0&list=PLZKTXPmaJk8JDicsOyY2cTcwXmBa-ZceI"
+    },
+    {
+        "title": "[자바스크립트] #인트로",
+        "channel_name": "오쌤의 니가스터디",
+        "description": "자바스크립트 기초이론을 배우기 전,\n인트로 영상입니다.\n프론트엔드 개발자가 되려면 \n자바스크립트를 매우 잘해야 합니다.\n그래서 쉽게 접근하고자 영상으로 만들어 봤습니다.\n처음 접하시는 분들도, 예전에 배우셨던 분들도,\n쉽게 배울 수 있는 예제 영상들을\n앞으로 올릴 예정입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/E-PzX2mKGUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcZdwuoJKsWOw77KynncUc7-8rJw",
+        "source_url": "https://www.youtube.com/watch?v=6XGs-C7jcnc&list=PLdwQP35_Nz9ccVBamu0L8CxXxFc52dKRK"
+    },
+    {
+        "title": "진짜 웹개발로 배우는 실용 자바스크립트 1강 : 셀렉터 selector",
+        "channel_name": "코딩애플",
+        "description": "전체강의와 예제코드는 여기서 이용가능합니다 ",
+        "thumbnail": "https://i.ytimg.com/vi/E-PzX2mKGUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcZdwuoJKsWOw77KynncUc7-8rJw",
+        "source_url": "https://www.youtube.com/watch?v=8rv8GTgYYrU&list=PLfLgtT94nNq0svPBSslzReYKbZRuv_-NK"
+    },
+    {
+        "title": "혼공 자바스크립트 0강 - 책 소개 + 강의 소개",
+        "channel_name": "윤인성",
+        "description": "소개를 합니다.\n\n예스24: ",
+        "thumbnail": "https://i.ytimg.com/vi/E-PzX2mKGUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcZdwuoJKsWOw77KynncUc7-8rJw",
+        "source_url": "https://www.youtube.com/watch?v=pXuyfvJPENA&list=PLBXuLgInP-5kxpAKy2DNXoebCse2grHjl"
+    },
+    {
+        "title": "자바 수업을 리뉴얼 했습니다",
+        "channel_name": "생활코딩",
+        "description": "오랫동안 사랑 받은 생활코딩의 자바수업이 완전히 새롭게 리뉴얼 되었습니다. \n\n이전 수업은 아래와 같습니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck"
+    },
+    {
+        "title": "자바 기초 프로그래밍 강좌 1강 - Hello World! (Java Programming Tutorial 2017 #1)",
+        "channel_name": "동빈나",
+        "description": "자바 기초 프로그래밍 강좌 1강 - Hello World! (Java Programming Tutorial 2017 #1) 강의 동영상입니다. JDK, 환경 변수 설정, 이클립스 설치를 거쳐서 완전한 자바 개발 환경을 구축한 이후에 Hello World를 출력하는 방법에 대해서 공부합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=wjLwmWyItWI&list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R"
+    },
+    {
+        "title": "[자바 기초 강의] 0강. 〈이것이 자바다〉 소개",
+        "channel_name": "한빛미디어",
+        "description": "본 강의는 『이것이 자바다』를 바탕으로 제작하였습니다. \n\n자바 실력이 제자리걸음처럼 느껴질 땐 샘플 코드를 반복 작성하고 패턴을 익히는 것이 가장 좋은 방법입니다. 처음에는 완벽히 이해되지 않아도 계속 실습하다 보면 이해가 되죠. 이 책에서는 주석이 달린 수많은 샘플 코드를 제공하여 직접 실습할 수 있도록 구성했습니다.\n\n최초로 자바를 개발한 제임스 고슬링은 “미래는 그냥 일어나는 것이 아니라 선택하는 것입니다.”라고 했습니다. 우리의 미래는 우리의 선택이 모여 만들어집니다. 자바와 함께 무한한 개발 분야에서 성공할 수 있도록 응원하겠습니다.\n\n👨‍🏫주요 강의 내용",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=PqZ1imcTBpI&list=PLVsNizTWUw7EmX1Y-7tB2EmsK6nu6Q10q"
+    },
+    {
+        "title": "[자바 기초 강의] 1강 다운로드 및 실행환경 구축 (SONOL)",
+        "channel_name": "소놀코딩_Sonol Coding",
+        "description": "안녕하세요~ 여러분! ㅎㅎ 오늘부터 복쌤의 자바 기초 강의를 시작합니다~ \n많은 분들이 공부하고 계시는 자바!! 기초부터 차근차근 배워보아요.\n (1강 다운로드 및 실행환경 구축)에서는 필요한 프로그램을 다운받고 개발을 진행할 수 있는 환경을 구축해보았습니다.\n\n소놀의 강의가 도움이 되신다면 구독과 좋아요도 눌러주세요.\n감사합니다. ^^\n\n소놀 네이버 카페 : ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=DAm_E28SaFw&list=PLz2iXe7EqJONkAP5s_FoUaS8Jy5LZJQrS"
+    },
+    {
+        "title": "[ 자바(Java) 기초 강의 #1 ] Java 강의 사전 공지",
+        "channel_name": "어라운드 허브 스튜디오 - Around Hub Studio",
+        "description": "[ 자바(Java) 기초 강의 #1 ] Java 강의 사전 공지\n\n여러분들과 함께 자바를 공부해보고자 이런 자리를 마련해보았습니다.\n강의라는 딱딱한 영상으로 생각하지 마시고 편안하게 필요한 내용을 댓글로 남겨주시면, 가능한 선에서 강의 영상으로 제작하도록 하겠습니다.\n\nIntelliJ Community 다운로드 받는 곳(윈도우) : ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=Dx8fb5eFxBw&list=PLlTylS8uB2fA5PevGI6ARN6v-VQWmqaix"
+    },
+    {
+        "title": "[자바의정석-기초편] ch1-1,2 자바란? 자바의 역사",
+        "channel_name": "남궁성의 정석코딩",
+        "description": "자바의 정석 기초편의 첫 번째 강의. 자바란 무엇이며, 자바의 역사에 대해서 설명합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp"
+    },
+    {
+        "title": "1. 자바수업소개",
+        "channel_name": "coding404",
+        "description": "자바에 전반적인 개념, 특징에 대해 학습합니다",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=L0a6N-rj-CI&list=PLK7AWkPYwus7701xk4hd2O1hKjSmHu5x6"
+    },
+    {
+        "title": "[자바 입문] 자바란?",
+        "channel_name": "programmers",
+        "description": "강의 자세히 보기: ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=lmDD5zilk_U&list=PLz4XWo74AOaeAM5jWwQmrgQ6ccdOKVekw"
+    },
+    {
+        "title": "자바(Java) 기초 강의 #1 (이클립스 설치 + 프로젝트 생성) - 쉽게 자바 코딩하는 방법 (현직 개발자 설명) , Java / android / Java tutorial",
+        "channel_name": "hongdroid홍드로이드",
+        "description": "★★★홍드로이드의 취준생을 위한 앱 강의",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=6Hd4pPRb1eY&list=PLC51MBz7PMyyJCw07eXgURHFn-on7Lnmg"
+    },
+    {
+        "title": "2024 01 25, 자바, 1강, 시작합니다.",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=ue37vkZMWuw&list=PLmAWMAo-opQwjal36EeYkQXQOmIwj0aJ9"
+    },
+    {
+        "title": "입문자를 위한 자바스크립트 기초 #0 수업 소개",
+        "channel_name": "유노코딩",
+        "description": "'입문자를 위한 자바스크립트 기초 강의' 전체 강의는 \n성장기회의 평등을 추구하는 교육 플랫폼, '인프런(inflearn)'에서 \n유료로 만나보실 수 있습니다!\n\n유튜브 무료 버전 - 26개의 강의 영상 \n인프런 유료 버전 - 40개의 강의 영상 + 4개의 미니 프로젝트 (소스코드와 해설문 제공)\n\n전체 강의는 다음 링크를 통해 만나보실 수 있습니다.\n👉🏻 ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=9olX2yyXnVA&list=PLFeNz2ojQZjv41Q5cCw8blOpGTTrZS5PU"
+    },
+    {
+        "title": "1장 자바기초 1",
+        "channel_name": "김기태의 JAVA를 자바",
+        "description": "인하공전 2020년도 2학기 자바프로그래밍 과목에서 사용하는 강의 자료 입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=Du95mfuO6hA&list=PLUQt-s6e18eNUdfWKmXHteYWPmPW7h4vq"
+    },
+    {
+        "title": "[자바의 정석 - 기초편] ch6-1 객체지향 언어",
+        "channel_name": "남궁성의 정석코딩",
+        "description": "ch6-1 객체지향 언어에 대한 강의입니다. 객체지향 언어와 공부방법에 대한 강의입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=CXuA31XcBZ0&list=PLW2UjW795-f5JPTsYHGAawAck9cQRw5TD"
+    },
+    {
+        "title": "[ ASMR Programming ] Java Basic Coding #1 - No Talk 자바 기초 코딩 #1",
+        "channel_name": "목동코딩학원 와이코딩 whycoding",
+        "description": "잠들기 전 asmr코딩 감상하기",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=u-0SMI0vPG0&list=PLXpTQh3wM42VbDe20tnrkm5BON2cCKoN0"
+    },
+    {
+        "title": "자바 기초 - 1. 자바 언어란?",
+        "channel_name": "황희정짧굵배",
+        "description": "온라인 교재: ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=NIGZE55FBZA&list=PLkRxB9FjUuPxQU77CVz-Yz9XBfNXU7z33"
+    },
+    {
+        "title": "코딩테스트에 필요한 자바 - 1. int VS long",
+        "channel_name": "하루코딩",
+        "description": "#알고리즘",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=x-cYdsjfVKU&list=PLFgS-xIWwNVXv1mM7cH1X4ycjB47z1EL-"
+    },
+    {
+        "title": "[ ASMR Programming ] Java enum - No Talk 자바 열거형",
+        "channel_name": "목동코딩학원 와이코딩 whycoding",
+        "description": "#shorts",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=X1av31rgg3Q&list=PLXpTQh3wM42W4omx6JWHCtb7quwyVlzkt"
+    },
+    {
+        "title": "알고리즘 코딩테스트 문제풀이 강의 - 1 숫자의 합 구하기 (백준 11720)",
+        "channel_name": "하루코딩",
+        "description": "Do it! 알고리즘 코딩 테스트에서 다루는 1번  숫자의 합 구하기 문제 풀이 강의입니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=0uhy851SDng&list=PLG7te9eYUi7tCnENs3_RD0vDgeydMqM51"
+    },
+    {
+        "title": "JAVA1 - 1. 수업소개",
+        "channel_name": "생활코딩",
+        "description": "컴퓨터 프로그래밍의 기본을 가장 인기있는 컴퓨터 언어인 Java를 통해서 알려드리는 수업입니다.\n\n전체수업내용과 소스코드는 아래 주소에 있습니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=-dPXqgWQBGE&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR"
+    },
+    {
+        "title": "0 오리엔테이션",
+        "channel_name": "김기태의 JAVA를 자바",
+        "description": "2021학년도 자바 프로그래밍 자료 입니다. \n- 수업 오리엔테이션 ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=9WYD29SRNcA&list=PLUQt-s6e18eNUZiXhFCyfyca_QtbOQ9pS"
+    },
+    {
+        "title": "정보처리기사 실기를 위한 JAVA 특강 오리엔테이션",
+        "channel_name": "두목넷 익스터디",
+        "description": "정보처리기사 실기를 위한 JAVA 특강 오리엔테이션 입니다.\n\n--------------------------------------------------------------------------------------------------------------------------\n\n두목넷 강의실 👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=FZy3b_v7RJk&list=PLwXldj55mFgBCqi3HcS2JuTJFGknhXpdf"
+    },
+    {
+        "title": "진짜 웹개발로 배우는 실용 자바스크립트 1강 : 셀렉터 selector",
+        "channel_name": "코딩애플",
+        "description": "전체강의와 예제코드는 여기서 이용가능합니다 ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=8rv8GTgYYrU&list=PLfLgtT94nNq0svPBSslzReYKbZRuv_-NK"
+    },
+    {
+        "title": "[자바기초 온라인 강의] 3.화면출력과 이클립스의 이해",
+        "channel_name": "팀노바",
+        "description": "유료강의인 자바기초 1~3강까지는 무료로 배포하고 있습니다.\n자바 기초 강의 링크 (팀노바 라이트) ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=E7wjHd4X5Fw&list=PLhXzSbou3cfNAcd8txGuukWzSBnZYupZR"
+    },
+    {
+        "title": "자바기초_01",
+        "channel_name": "우송대SW중심대학사업단",
+        "description": "우송대학교 소프트웨어중심사업단 오픈강의 \n8강 자바 기초",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=qTqrl4b71oI&list=PLCd_9zpyuN2XhE0sn0nBEBtzrqNl-1PHX"
+    },
+    {
+        "title": "자바스크립트 기초 강좌 #1 - 변수",
+        "channel_name": "코딩앙마",
+        "description": "안녕하세요. 코딩앙마 입니다 :)\n이번 시간에는 변수가 무엇인지 알아보고, let 과 const 를 배워봅시다.\n\n----------------------------------------\n\n이 수업은 기초 자바스크립트 수업으로, 완전 초보자를 대상으로 진행합니다.\nThis video is a JavaScript(ES6) tutorial for beginners.\n\n재생목록 링크 : ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=P0FY8k916e0&list=PLZKTXPmaJk8JDicsOyY2cTcwXmBa-ZceI"
+    },
+    {
+        "title": "24 08 10, 자바, 1강, 수업 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=C3KNWLfsznU&list=PLmAWMAo-opQxo2S-DHeZ8Bw-gaVgQZFuT"
+    },
+    {
+        "title": "24 03 10, p 13442, 1강, 자바 기초강의 시작합니다, 인텔리제이 커뮤니티 설치 및 세팅법은 slog.gg/p/13445 에서 확인",
+        "channel_name": "몰입코딩 아카이브",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=IcgMWm2XPg0&list=PLE0hRBClSk5Jrn2NoxX_strWmd67F-3Gb"
+    },
+    {
+        "title": "자바 스윙 0 : 자바 데스크탑 어플리케이션만들기",
+        "channel_name": "Danny TWLC",
+        "description": "안녕하세요 자바 Swing을 이용하여서 만든 데스크탑 어플리케이션입니다.\n저는 이외에  HMTL, CSS, Java Script, Angular, \n또 파이썬과 R을 이용한 따라하기 쉬운 Machine Learning 을 알려드릴 예정입니다. 감사합니다.\n\n도움이 되셨다면, 구독▶️ 좋아요👍 부탁드립니다 ^^",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=hJmnn8edXrQ&list=PLHGvDasahwZPXuHYGhdMhU6Csjz1CjOi9"
+    },
+    {
+        "title": "자바기초 2021 05 21 첫시간",
+        "channel_name": "이규영샘과 함께하는 인공지능",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=gYFRkRJOLjo&list=PL1t-1_ASqquYuKBBfuVo5bSuPkZt-VM0h"
+    },
+    {
+        "title": "JAVA 객체 지향 프로그래밍 - 1. 수업소개",
+        "channel_name": "생활코딩",
+        "description": "자바를 통해서 객체지향의 기본을 알려드리는 수업입니다. 클래스와 인스턴스는 왜 필요한지 너무 추상적인 생각이 드셨던 분들께 권해드립니다. \n\n모든 수업은 아래 주소에 준비 되어 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=uvYWAfZzb8k&list=PLuHgQVnccGMAb-e41kXPSIpmoz1RvHyN4"
+    },
+    {
+        "title": "[이지스퍼블리싱] Do it! 자바 프로그래밍 입문 출간!",
+        "channel_name": "이지스퍼블리싱",
+        "description": "비전공자, 문과생도 무릎을 ‘탁!’ 치며 이해하는 20년 경력 명강사의 자바 강의! 프로그래머를 꿈꾸는 사람의 인생 과제인 자바를 135개 그림과 240개 예제로 더욱 쉽게 배웁니다. 프로그래밍 입문서 최강자 Do it! 시리즈답게 중학생도 이해할 수 있는 친절한 설명, 직접 만들면서 배우는 실전형 실습 예제, 배운 개념을 되새기는 복습 퀴즈, 장을 마무리하는 연습 문제와 총정리 최종 프로젝트까지! 자고 일어나도 자바 문법이 기억날 만큼 체계적으로 구성했습니다. 또한 저자의 자바 학습 노하우를 담은 무료 동영상 강의를 제공하며, 저자 블로그에서 질문할 수 있으니 혼자 공부하는 사람도 안심하고 자바에 입문할 수 있습니다. 왕초보도 공부할 맛 나는 《Do it! 자바 프로그래밍 입문》과 함께 자바의 기본을 완성해 보세요! \n\n책 자세히 보기 : ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=oonYQa82MU4&list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj"
+    },
+    {
+        "title": "[추가 1] 강의 교안 예제 확인 및 예제 다운로드 받기",
+        "channel_name": "Do it 자바 완전 정복 동영상 강의",
+        "description": "[추가 1] 강의 교안 예제 확인 및 예제 다운로드 받기",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=jALoE5BGFls&list=PLG7te9eYUi7toebNnbA1cZNRDoUcHmsGd"
+    },
+    {
+        "title": "스프링 입문 강의 소개",
+        "channel_name": "김영한",
+        "description": "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술\n인프런 전체 강의(무료): ",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=qyGjLVQ0Hog&list=PLumVmq_uRGHgBrimIp2-7MCnoPUskVMnd"
+    },
+    {
+        "title": "즐거운 자바 강좌 - 01. 자바(Java)언어의 특징과 JDK 및 개발환경 설치",
+        "channel_name": "부부개발단 - 즐겁게 프로그래밍 배우기",
+        "description": "CARAMI와 TOTO\n부부개발단 입니다.\n\n오늘부터 몇일에 한번씩 TOTO의 자바 강의를 올릴려고 합니다.\n\n자바 언어를 처음 다루는 완전 초보자 분들을 대상으로 합니다. \n\n왜 자바 언어를 공부해야 하는지, 어떤 JDK를 설치를 해야하는지에 대해서 알아봅니다.\n\n맥(Mac)에서 JDK를 설치하는 방법도 알아봅니다. (윈도우 사용자 여러분 죄송)\n\ngit, visual studio code등도 설치합니다.\n\n맥에서 간단한 자바 프로그램을 하나 만들고 컴파일 하고 실행해봄으로써 개발 환경이 잘 설치되어 있는지 확인하는 시간도 가집니다.\n\n첫번째 자바 학습!\n\n많이 따라와주시면 감사하겠습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/jdTsJzXmgU0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT4bu6PPAaGC3galZnG6OzwaQuZg",
+        "source_url": "https://www.youtube.com/watch?v=iVX4uGfGXck&list=PLHpaQi-LiUCx-vcbcnpU5Tzv2X99WCowN"
+    },
+    {
+        "title": "C/C++ 강의 Prologue. C++ 공부이유와 공부법",
+        "channel_name": "어소트락 게임아카데미",
+        "description": "평일 하루에 1~2개 영상이 업로드 될 예정입니다.\n\n- Assort Rock Game Academy",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=PFc4g8mxOiI&list=PL4SIC1d_ab-aOxWPucn31NHkQvNPHK1D1"
+    },
+    {
+        "title": "C++ 수업을 시작하며",
+        "channel_name": "1인개발TV",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=L4xq7Fb90qg&list=PL99e3DcrPCyJkL0UUBJRTS7ftVVX9SyXe"
+    },
+    {
+        "title": "[깜따긔야] C++ 기초 1강 소개",
+        "channel_name": "ProjectRin",
+        "description": "C++의 장점과 단점, 그리고 강좌 소개를 해보았습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=MOrZOrtSxTE&list=PLENYGEQnz1xrFRW5B1yftNlOCrDzMOpCl"
+    },
+    {
+        "title": "스스로 프로그래밍을 할 수 있는 능력을 키우는 방법",
+        "channel_name": "얌얌코딩 (게임 개발)",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=a-BcVpybJJI&list=PLWKwcHKTXy5RSvmpWyWAG9kWMEqI2AYjn"
+    },
+    {
+        "title": "[따배씨++] 0.0 C++ 꼭 공부해야할까?",
+        "channel_name": "홍정모",
+        "description": "[무료] 코테용 C++ 핵심 정리👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=8-4Fm5fl2CM&list=PLNfg4W25Tapw5Yx4yuExHNybBIUk68aNz"
+    },
+    {
+        "title": "[C++ 프로그래밍] 0. 강의 소개 - (1)",
+        "channel_name": "김형기",
+        "description": "전북대학교 컴퓨터공학부 C++ 프로그래밍 강의 영상입니다. \n\n강의자료 다운로드 링크",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=wpk7AM6FPRc&list=PLMcUoebWMS1nzhlx-NbD4KBGEP1UCUDF_"
+    },
+    {
+        "title": "C언어 기초 프로그래밍 강좌 1강 - Hello World (C Programming Tutorial For Beginners 2017 #1)",
+        "channel_name": "동빈나",
+        "description": "C언어 기초 프로그래밍 강좌 1강 - Hello World (C Programming Tutorial For Beginners 2017 #1) 강의 동영상입니다. C언어 개발 환경을 설치하여 구축한 뒤에 Hello World를 출력하는 프로그램을 작성합니다. C언어 기초 프로그래밍 입문자분들 환영합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=dh4hdtZ00EU&list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT"
+    },
+    {
+        "title": "C++ 강좌 1-1 강의 계획서",
+        "channel_name": "Smile Han",
+        "description": "알림 : 이 채널의 수익금 전액은 장학금으로 기부합니다. \n2020-2학기, 1학년 C++ 프로그래밍 강좌(강의 계획서)\n전체 재생 목록 : ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=WulxuBtoW5M&list=PLJqaIeuL7nuG6EmLPNiHfHi4WWN9C5HNd"
+    },
+    {
+        "title": "C기초01💻 https://drive.google.com/file/d/1EoCkIin1fUBV_i5DFfOcGbSGgxeRB1n0/view?usp=sharing",
+        "channel_name": "피토스터디.ptostudy.",
+        "description": "강의자료 : ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=98pghq8Nw7Y&list=PLIxff5DJJR7pk77o3QTGtWqZgPGrxOl1c"
+    },
+    {
+        "title": "[C++ 언어 본색] #01 1장 - C++ 강좌 개요",
+        "channel_name": "프리렉",
+        "description": "프리렉의 [열혈강의] C++ 언어 본색 동영상 강의입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=Y7IWlWlIo2g&list=PL7mmuO705dG32y7Lei1FsQrdwEbbrU9VU"
+    },
+    {
+        "title": "C언어 기초 강의 [1강. C언어 개발환경 구축하기]",
+        "channel_name": "소놀코딩_Sonol Coding",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=1s6sRFlNtzc&list=PLz2iXe7EqJOOAo_79II0pnV4-mhQz_Sp-"
+    },
+    {
+        "title": "Unreal C++ tutorial을 시작하면서",
+        "channel_name": "1인개발TV",
+        "description": "UnrealGame C++  디아블로 스타일의 탑다운(쿼터뷰)게임 tutorial를 만들어 보겠습니다.\n언리얼 관련 티스토리블로그",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=C-YUzNmik00&list=PL99e3DcrPCyKyuP6XMax-8iIyjxVKdHoS"
+    },
+    {
+        "title": "C언어 기초 1-1 OT : why C (2021 1학년1학기 C언어 기초 강의(C프로그래밍 강좌))",
+        "channel_name": "Smile Han",
+        "description": "알림 : 이 채널의 수익금 전액은 장학금으로 기부합니다. \n23년 3월에 교재를 출간하여 다음의 23년 강의를 추천합니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=6WpYsnqEwzo&list=PLJqaIeuL7nuGzIREveIOcZ3ORhrWTvUaH"
+    },
+    {
+        "title": "[C/C++ 강좌] Visual Studio 2017 설치 방법",
+        "channel_name": "두들낙서",
+        "description": "Visual Studio 2017 버전 설치 방법에 대해 알아보자.\n\n1. 링크: ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=nbkpd0JLoJM&list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk"
+    },
+    {
+        "title": "cpp01 1 C++ 개요",
+        "channel_name": "Kwanghoon Choi",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=-Ja09QoqmrI&list=PLhbaMvGyp998v6kPjuapazZMgTdLkjUl8"
+    },
+    {
+        "title": "C언어/C++ 강의 1화 프로젝트 생성과 출력 [어소트락 게임아카데미 게임학원]",
+        "channel_name": "어소트락 게임아카데미",
+        "description": "Visual Studio 2015를 활용한 C++ 기초강의\nvisual studio 2015 프로젝트 생성과 ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=WZLkdz277DA&list=PL4SIC1d_ab-b4zy_3FDRIiohszShOZ0PK"
+    },
+    {
+        "title": "[C/C++ 강좌] Visual Studio 2017 설치 방법",
+        "channel_name": "두들낙서",
+        "description": "Visual Studio 2017 버전 설치 방법에 대해 알아보자.\n\n1. 링크: ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=nbkpd0JLoJM&list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk"
+    },
+    {
+        "title": "Unreal C++ tutorial을 시작하면서",
+        "channel_name": "1인개발TV",
+        "description": "UnrealGame C++  디아블로 스타일의 탑다운(쿼터뷰)게임 tutorial를 만들어 보겠습니다.\n언리얼 관련 티스토리블로그",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=C-YUzNmik00&list=PL99e3DcrPCyKyuP6XMax-8iIyjxVKdHoS"
+    },
+    {
+        "title": "C언어 기초 1-1 OT : why C (2021 1학년1학기 C언어 기초 강의(C프로그래밍 강좌))",
+        "channel_name": "Smile Han",
+        "description": "알림 : 이 채널의 수익금 전액은 장학금으로 기부합니다. \n23년 3월에 교재를 출간하여 다음의 23년 강의를 추천합니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=6WpYsnqEwzo&list=PLJqaIeuL7nuGzIREveIOcZ3ORhrWTvUaH"
+    },
+    {
+        "title": "[게임팩] 0.0 게임 만들기 연습문제 패키지 소개 | 따라하며 배우는 C++, 따배씨++, 게임 프로그래밍, C++ 강의, C++ 강좌",
+        "channel_name": "홍정모",
+        "description": "* 코드는 아래 인프런 페이지 통해서 받으실 수 있습니다.\n게임 만들기 연습 문제 패키지 인프런 :: ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=v-yZZfLNnLE&list=PLNfg4W25TapwH10qWS8nu2QeJxM75bT7Z"
+    },
+    {
+        "title": "cpp01 1 C++ 개요",
+        "channel_name": "Kwanghoon Choi",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=-Ja09QoqmrI&list=PLhbaMvGyp998v6kPjuapazZMgTdLkjUl8"
+    },
+    {
+        "title": "C언어/C++ 강의 1화 프로젝트 생성과 출력 [어소트락 게임아카데미 게임학원]",
+        "channel_name": "어소트락 게임아카데미",
+        "description": "Visual Studio 2015를 활용한 C++ 기초강의\nvisual studio 2015 프로젝트 생성과 ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=WZLkdz277DA&list=PL4SIC1d_ab-b4zy_3FDRIiohszShOZ0PK"
+    },
+    {
+        "title": "깨알 C언어 | 01. 프로그래밍이란?",
+        "channel_name": "흥달쌤",
+        "description": "깨알 C언어 강의를 시작합니다.\n\n첫번째 시간에는 프로그램이 어떻게 동작하는지 한번 알아보겠습니다.\n프로그램은 그들만의 리그가 아닙니다.\n어려워하지 마시고, 포기 하지 마세요..\n\n포기하고 싶은 C언어!! 흥달쌤과 함께 하시면 어렵지 않을꺼에요~",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=Lj0EszeZo2A&list=PLdaE6YENrbZA8sXCvVBUWjFwFI2zb4tlK"
+    },
+    {
+        "title": "동영상 강좌 - 'Do it! C언어 입문' - 1장",
+        "channel_name": "김성엽",
+        "description": "이 동영상 강좌는 'Do it! C언어 입문'의 독자들에게 도움을 주고자 만들었습니다.\n첫째마당 - 1장. 프로그램과 C언어  :  C 언어에 대한 전반적인 소개를 합니다.\n \n'Do it C언어 입문' 동영상 강좌에서 사용된 PPT 파일을 이미지로 만들어서 제 블로그에 올리고 있습니다. 현재 첫째마당 부록까지 올라갔으니, 강의를 하시거나 공부하시는 분들은 받아서 잘 활용하시기 바랍니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=flszoDfgwjc&list=PLiZvlxkcLhakQwbPjkyfuHFy1IVG-VXrP"
+    },
+    {
+        "title": "C++언어 1강. C언어와 C++ 언어적 비교",
+        "channel_name": "아워즈팜X나우캠퍼스",
+        "description": "반갑습니다. 본 강의 내용은 C언어와 C++언어의 차이에 대한 설명입니다.\n이 영상들은 과거 제작한 내용으로 참고용으로 수강해 보시면 좋을 것으로 생각됩니다.\nC++ 강의는 완강되어 있습니다. 감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=HFLEenGyrAs&list=PLOKPEzlY4JKQhYNb7bF1RmWsCJYHBNY8o"
+    },
+    {
+        "title": "[따배씨] C언어를 제대로 배우는 방법 | 따라하며 배우는 C언어 ,c언어 , 컴퓨터 작동원리, 코딩",
+        "channel_name": "홍정모",
+        "description": "[무료] 코테용 C++ 핵심 정리👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=PDM_w2b4UA0&list=PLNfg4W25Tapyl6ahul_8VS_8Tx3_egcTI"
+    },
+    {
+        "title": "c언어 강좌 콘솔창 게임 만들기 기초편 LowHigh Game",
+        "channel_name": "게임플밍마스터",
+        "description": "https://cafe.naver.com/gamepromaster",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=4lA4CS6jZyE&list=PLGi8elnlkqBOul8ad3jnEXS3Jye1PZbjW"
+    },
+    {
+        "title": "LV00_1 클래스 구조체 차이, 멤버함수 동작원리",
+        "channel_name": "얌얌코딩 (게임 개발)",
+        "description": "수업 노트 및 숙제",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=Vm2fNaEc1Lo&list=PLWKwcHKTXy5QXZEw5dJ6ubggsBhLtTsBa"
+    },
+    {
+        "title": "29살의 C언어 with 거니 [Chapter#0 - 소개]",
+        "channel_name": "코딩하는거니",
+        "description": "29살의 C언어 with 거니 첫 번째 동영상입니다.\n\n앞으로 같이 배워볼 C언어에 대한 전반적인 소개와 목차를 알려줍니다. \n\n감사합니다\n\n----------------------------\nBloodshed Dev C++ 다운로드 링크\n\n[Bloodshed 공식 다운로드 페이지]",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=04lcX_mVD6g&list=PLLcbGhhl4sQBXgdQmTi20y_iVT2tl98lV"
+    },
+    {
+        "title": "[혼공C_새로워진 이것이 C언어다] 1강. 01-1 프로그램과 C언어 / 01-2 컴파일러 사용법",
+        "channel_name": "한빛미디어",
+        "description": "Chapter 01. 프로그램 만들기\n01-1 프로그램과 C언어\n01-2 컴파일과 컴파일러 사용법\n\n※ 주요 학습 내용\n-프로그램이란?  일의 순서\n-프로그래밍 언어란?\n-C 언어의 특징 \n-C 언어의 주요 연혁\n-프로그램 작성 과정\n-소스 파일 (Source File) 작성\n-컴파일\n-실행\n\n[혼자 공부하는 C 언어]는 [이것이 C언어다]의 전면 개정판으로, 두 책의 독자 모두 이 강의를 참고하여 학습하실 수 있습니다. \n\n[혼자 공부하는 C 언어]는 [이것이 C언어다] 콘텐츠를 기반으로 기획된 도서입니다. 동영상 강의 50만 조회수를 기록하는 동안 독자님들로 부터 받은 피드백을 반영하여 콘텐츠를 강화하고, 학습 방법과 구성을 강화 하였습니다. \n\n✔ '혼자 공부하는 C 언어' 커뮤니티 \n► 둘러보기: ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS"
+    },
+    {
+        "title": "2024 01 25, C언어 기초, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=kVxNBN49qbk&list=PLmAWMAo-opQwHLj_h1SCVwaaDcjrwR2R3"
+    },
+    {
+        "title": "실시간 프로그래밍 강의 오리엔테이션",
+        "channel_name": "[오제이 튜브]OJ Tube",
+        "description": "[OJ TUBE 정보]\n가난한 학생은 무료! 경제적 여유가 있으신 분은 자율 강의료를 내주시면, 계속적인 강의에 큰 힘이 됩니다.!\n자율 강의료 : ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=mo_AQ1xDCFs&list=PLz--ENLG_8TMdMJIwyqDIpcEOysvNoonf"
+    },
+    {
+        "title": "제01장 C와는 다른 C++ - 첫 번째",
+        "channel_name": "널널한 개발자 TV",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=kq6b5zBkQ28&list=PLVsNizTWUw7EngGgS-7jWdgy5NgkIjHxz"
+    },
+    {
+        "title": "기초C프로그래밍 강좌소개",
+        "channel_name": "선문대학교 SW중심대학사업단",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=HgM4mGTKrCY&list=PLKjRKmeEEkp76Nu5qXa25XwYUGVgwMYdR"
+    },
+    {
+        "title": "[하루10분|C++] 0-1. C++을 학습하여야 하는 이유",
+        "channel_name": "판다코딩",
+        "description": "프로그래밍 입문자를 위한 'C++' 강좌입니다",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=GqhZ5_RtNpQ&list=PLgqG2uj21HgkcfVtlr5rPekQl5VWJEnIB"
+    },
+    {
+        "title": "자료구조 강의예고",
+        "channel_name": "널널한 개발자 TV",
+        "description": "많은 분들이 자료구조 강의를 요청하셔서 강의 일정을 계획보다 앞당기려 합니다. 본격적인 강의는 다음 주 빠르면 이번 주말(2022년 9월 17일 토요일)부터 촬영하고 업로드 할 예정입니다.\n\n이 영상에서는 앞으로 진행 계획 및 다루려는 내용과 수강완료 후 진행할 미니 프로젝트에 관해 간단히 소개합니다. 감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=Pm8NCZJeFyI&list=PLXvgR_grOs1AiEXL3Xfy6yEZ7k2TL4rxy"
+    },
+    {
+        "title": "[C언어 기초부터 실용까지] 오리엔테이션",
+        "channel_name": "아워즈팜X나우캠퍼스",
+        "description": "나우캠퍼스 학생 여러분 ! 반갑습니다.\n기존 비메오와 카카오페이지에서 서비스하던 동영상 강의를 업그레이드하여 유튜브에서  강의를 시작하려고 합니다.\n문법과 프로그래밍 두 부분으로 되어 있으며 학생 수준을 고려해서 문법을 아는 학생은 프로그래밍부터 시작을 하시면 됩니다. \n감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=rHl4m24vlsQ&list=PLOKPEzlY4JKRpqM_CUU2r1AhfusyN4NnZ"
+    },
+    {
+        "title": "(나도코딩 C) 소개",
+        "channel_name": "나도코딩",
+        "description": "\"너무 좋습니다 ! 책으로 먼저 배열과 포인터를 공부했는데 이해가 되지 않아서 이 강의 영상을 보니 단번에 이해가 되었어요!\"\n\n\"예시가 적절해서 굉장히 배우기 좋았습니다\"\n\n\"강의 빠져드네요 ㅋㅋㅋ 비전공자인데 재밌게 보게 됩니다\"\n\n\"크...설명 진짜 잘하시네\"\n\n\"강사님을 고용하고 싶습니다. 얼마면 되나요?\"\n\n\n\n\n이미 많은 분들이 공부하셨습니다.\n\n이제는 여러분 차례입니다.\n\n\n\n본 강의는 게임을 직접 만들며 배우는, 초보자를 위한 C 프로그래밍 입니다. 배우긴 배웠는데 어떻게 활용하지? 나만의 프로그램을 만들 수 있을까? 포인터가 정말 어렵다는데? …\n\n\n\n걱정하지 마세요!\n\n\n여러분들이 어려워하는 부분을 누구보다 잘 알고 있기에 누구보다 쉽게 가르칩니다. 그리고 매 강의마다 배운 내용을 토대로 직접 게임을 만들어 봅니다.\n\n\n\n왜 어려운 C 를 배워야 하나요?\n\n\nC 는 조금 어렵지만, 아주 기본이 되는 언어입니다. C 를 마스터 하고 나면, 다른 언어는 굉장히 쉽게 배울 수 있습니다. 그리고, 나도코딩이 깜짝! 놀랄만큼 쉽게 알려드리겠습니다.\n\n\n\nC 프로그래밍, 지금 바로 시작하세요 !\n\n\n[ 나도코딩의 정규 강의 ]\n파이썬 (기본편) : ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=dEykoFZkf5Y&list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP"
+    },
+    {
+        "title": "0x00 - Introduction | C/C++ Beginners Tutorial",
+        "channel_name": "Lötwig Fusel",
+        "description": "Full Playlist: ",
+        "thumbnail": "https://i.ytimg.com/vi/PFc4g8mxOiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwtdgmiHnftyTwAIqdqgqXa2yDOw",
+        "source_url": "https://www.youtube.com/watch?v=L8pKmZopxew&list=PL-m4pn2uJvXHHaewNkOTdPeDJNb3sLrUW"
+    },
+    {
+        "title": "C언어 기초 프로그래밍 강좌 1강 - Hello World (C Programming Tutorial For Beginners 2017 #1)",
+        "channel_name": "동빈나",
+        "description": "C언어 기초 프로그래밍 강좌 1강 - Hello World (C Programming Tutorial For Beginners 2017 #1) 강의 동영상입니다. C언어 개발 환경을 설치하여 구축한 뒤에 Hello World를 출력하는 프로그램을 작성합니다. C언어 기초 프로그래밍 입문자분들 환영합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=dh4hdtZ00EU&list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT"
+    },
+    {
+        "title": "C언어 기초 강의 [1강. C언어 개발환경 구축하기]",
+        "channel_name": "소놀코딩_Sonol Coding",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=1s6sRFlNtzc&list=PLz2iXe7EqJOOAo_79II0pnV4-mhQz_Sp-"
+    },
+    {
+        "title": "C언어 기초 1-1 OT : why C (2021 1학년1학기 C언어 기초 강의(C프로그래밍 강좌))",
+        "channel_name": "Smile Han",
+        "description": "알림 : 이 채널의 수익금 전액은 장학금으로 기부합니다. \n23년 3월에 교재를 출간하여 다음의 23년 강의를 추천합니다. ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=6WpYsnqEwzo&list=PLJqaIeuL7nuGzIREveIOcZ3ORhrWTvUaH"
+    },
+    {
+        "title": "깨알 C언어 | 01. 프로그래밍이란?",
+        "channel_name": "흥달쌤",
+        "description": "깨알 C언어 강의를 시작합니다.\n\n첫번째 시간에는 프로그램이 어떻게 동작하는지 한번 알아보겠습니다.\n프로그램은 그들만의 리그가 아닙니다.\n어려워하지 마시고, 포기 하지 마세요..\n\n포기하고 싶은 C언어!! 흥달쌤과 함께 하시면 어렵지 않을꺼에요~",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=Lj0EszeZo2A&list=PLniy99c_7ZfrVN_3-mhDUfTLxggLW23l7"
+    },
+    {
+        "title": "동영상 강좌 - 'Do it! C언어 입문' - 1장",
+        "channel_name": "김성엽",
+        "description": "이 동영상 강좌는 'Do it! C언어 입문'의 독자들에게 도움을 주고자 만들었습니다.\n첫째마당 - 1장. 프로그램과 C언어  :  C 언어에 대한 전반적인 소개를 합니다.\n \n'Do it C언어 입문' 동영상 강좌에서 사용된 PPT 파일을 이미지로 만들어서 제 블로그에 올리고 있습니다. 현재 첫째마당 부록까지 올라갔으니, 강의를 하시거나 공부하시는 분들은 받아서 잘 활용하시기 바랍니다.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=flszoDfgwjc&list=PLiZvlxkcLhakQwbPjkyfuHFy1IVG-VXrP"
+    },
+    {
+        "title": "2024 01 25, C언어 기초, 1강, 개요",
+        "channel_name": "방구석코딩",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=kVxNBN49qbk&list=PLmAWMAo-opQwHLj_h1SCVwaaDcjrwR2R3"
+    },
+    {
+        "title": "[C언어 기초부터 실용까지] 오리엔테이션",
+        "channel_name": "아워즈팜X나우캠퍼스",
+        "description": "나우캠퍼스 학생 여러분 ! 반갑습니다.\n기존 비메오와 카카오페이지에서 서비스하던 동영상 강의를 업그레이드하여 유튜브에서  강의를 시작하려고 합니다.\n문법과 프로그래밍 두 부분으로 되어 있으며 학생 수준을 고려해서 문법을 아는 학생은 프로그래밍부터 시작을 하시면 됩니다. \n감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=rHl4m24vlsQ&list=PLOKPEzlY4JKRpqM_CUU2r1AhfusyN4NnZ"
+    },
+    {
+        "title": "[따배씨] C언어를 제대로 배우는 방법 | 따라하며 배우는 C언어 ,c언어 , 컴퓨터 작동원리, 코딩",
+        "channel_name": "홍정모",
+        "description": "[무료] 코테용 C++ 핵심 정리👉 ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=PDM_w2b4UA0&list=PLNfg4W25Tapyl6ahul_8VS_8Tx3_egcTI"
+    },
+    {
+        "title": "(나도코딩 C) 소개",
+        "channel_name": "나도코딩",
+        "description": "\"너무 좋습니다 ! 책으로 먼저 배열과 포인터를 공부했는데 이해가 되지 않아서 이 강의 영상을 보니 단번에 이해가 되었어요!\"\n\n\"예시가 적절해서 굉장히 배우기 좋았습니다\"\n\n\"강의 빠져드네요 ㅋㅋㅋ 비전공자인데 재밌게 보게 됩니다\"\n\n\"크...설명 진짜 잘하시네\"\n\n\"강사님을 고용하고 싶습니다. 얼마면 되나요?\"\n\n\n\n\n이미 많은 분들이 공부하셨습니다.\n\n이제는 여러분 차례입니다.\n\n\n\n본 강의는 게임을 직접 만들며 배우는, 초보자를 위한 C 프로그래밍 입니다. 배우긴 배웠는데 어떻게 활용하지? 나만의 프로그램을 만들 수 있을까? 포인터가 정말 어렵다는데? …\n\n\n\n걱정하지 마세요!\n\n\n여러분들이 어려워하는 부분을 누구보다 잘 알고 있기에 누구보다 쉽게 가르칩니다. 그리고 매 강의마다 배운 내용을 토대로 직접 게임을 만들어 봅니다.\n\n\n\n왜 어려운 C 를 배워야 하나요?\n\n\nC 는 조금 어렵지만, 아주 기본이 되는 언어입니다. C 를 마스터 하고 나면, 다른 언어는 굉장히 쉽게 배울 수 있습니다. 그리고, 나도코딩이 깜짝! 놀랄만큼 쉽게 알려드리겠습니다.\n\n\n\nC 프로그래밍, 지금 바로 시작하세요 !\n\n\n[ 나도코딩의 정규 강의 ]\n파이썬 (기본편) : ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=dEykoFZkf5Y&list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP"
+    },
+    {
+        "title": "동영상 강좌 - 'Do it! C언어 입문' - 1장",
+        "channel_name": "김성엽",
+        "description": "이 동영상 강좌는 'Do it! C언어 입문'의 독자들에게 도움을 주고자 만들었습니다.\n첫째마당 - 1장. 프로그램과 C언어  :  C 언어에 대한 전반적인 소개를 합니다.\n \n'Do it C언어 입문' 동영상 강좌에서 사용된 PPT 파일을 이미지로 만들어서 제 블로그에 올리고 있습니다. 현재 첫째마당 부록까지 올라갔으니, 강의를 하시거나 공부하시는 분들은 받아서 잘 활용하시기 바랍니다.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=flszoDfgwjc&list=PLG7te9eYUi7s41qVfXUro0_vBAC8kflU4"
+    },
+    {
+        "title": "C/C++ 강의 Prologue. C++ 공부이유와 공부법",
+        "channel_name": "어소트락 게임아카데미",
+        "description": "평일 하루에 1~2개 영상이 업로드 될 예정입니다.\n\n- Assort Rock Game Academy",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=PFc4g8mxOiI&list=PL4SIC1d_ab-aOxWPucn31NHkQvNPHK1D1"
+    },
+    {
+        "title": "코드업 C 언어 기초 100제 풀이 시작하며 - 머털쌤",
+        "channel_name": "머털쌤",
+        "description": "코드업 C 언어 기초 100제 풀이    시작하며\n\nC언어를 처음 시작하는 분들 다른 언어를 하지 않은 분들을 위한 강좌입니다.\n아주 천천히 풀이 하려고 합니다.\n\n코드업 ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=hPIOz0BEI-c&list=PLVXWi4DVy7TexhDLSS8L5xEMEOygreQPj"
+    },
+    {
+        "title": "C기초01💻 https://drive.google.com/file/d/1EoCkIin1fUBV_i5DFfOcGbSGgxeRB1n0/view?usp=sharing",
+        "channel_name": "피토스터디.ptostudy.",
+        "description": "강의자료 : ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=98pghq8Nw7Y&list=PLIxff5DJJR7pk77o3QTGtWqZgPGrxOl1c"
+    },
+    {
+        "title": "[혼공C_새로워진 이것이 C언어다] 1강. 01-1 프로그램과 C언어 / 01-2 컴파일러 사용법",
+        "channel_name": "한빛미디어",
+        "description": "Chapter 01. 프로그램 만들기\n01-1 프로그램과 C언어\n01-2 컴파일과 컴파일러 사용법\n\n※ 주요 학습 내용\n-프로그램이란?  일의 순서\n-프로그래밍 언어란?\n-C 언어의 특징 \n-C 언어의 주요 연혁\n-프로그램 작성 과정\n-소스 파일 (Source File) 작성\n-컴파일\n-실행\n\n[혼자 공부하는 C 언어]는 [이것이 C언어다]의 전면 개정판으로, 두 책의 독자 모두 이 강의를 참고하여 학습하실 수 있습니다. \n\n[혼자 공부하는 C 언어]는 [이것이 C언어다] 콘텐츠를 기반으로 기획된 도서입니다. 동영상 강의 50만 조회수를 기록하는 동안 독자님들로 부터 받은 피드백을 반영하여 콘텐츠를 강화하고, 학습 방법과 구성을 강화 하였습니다. \n\n✔ '혼자 공부하는 C 언어' 커뮤니티 \n► 둘러보기: ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS"
+    },
+    {
+        "title": "[스무디] C언어 1.시작해봅시다.",
+        "channel_name": "스무디 TV",
+        "description": "150122 / C언어를 시작합시다.  여러분도 프로그래머.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=8E2B16-VEhU&list=PL1IheunyylbZ7TPhz6R47MCPW2K9X4x2I"
+    },
+    {
+        "title": "1352번 풀이 사각형 출력하기 1 : 코드업 C 언어 [기초-중접 반복문] - 머털쌤",
+        "channel_name": "머털쌤",
+        "description": "1352번 풀이 별찍기 사각형 출력하기 1 : 코드업 C 언어 [기초-중접 반복문]  - 머털쌤",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=kA5fT6h3mGw&list=PLVXWi4DVy7TdfSE3Tuyk08Yft4pffyi23"
+    },
+    {
+        "title": "[열혈강의]박정민의 C 언어 본색 1.1 C 언어란 무엇인가",
+        "channel_name": "프리렉",
+        "description": "Part 1 C 언어의 기초\n\n01장 C 언어의 소개와 프로그램 작성 방법 \n\n1.1 C 언어란 무엇인가",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=HNcOOzo2oU4&list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw"
+    },
+    {
+        "title": "깨알 C언어 | 01. 프로그래밍이란?",
+        "channel_name": "흥달쌤",
+        "description": "깨알 C언어 강의를 시작합니다.\n\n첫번째 시간에는 프로그램이 어떻게 동작하는지 한번 알아보겠습니다.\n프로그램은 그들만의 리그가 아닙니다.\n어려워하지 마시고, 포기 하지 마세요..\n\n포기하고 싶은 C언어!! 흥달쌤과 함께 하시면 어렵지 않을꺼에요~",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=Lj0EszeZo2A&list=PLdaE6YENrbZA8sXCvVBUWjFwFI2zb4tlK"
+    },
+    {
+        "title": "실시간 프로그래밍 강의 오리엔테이션",
+        "channel_name": "[오제이 튜브]OJ Tube",
+        "description": "[OJ TUBE 정보]\n가난한 학생은 무료! 경제적 여유가 있으신 분은 자율 강의료를 내주시면, 계속적인 강의에 큰 힘이 됩니다.!\n자율 강의료 : ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=mo_AQ1xDCFs&list=PLz--ENLG_8TMdMJIwyqDIpcEOysvNoonf"
+    },
+    {
+        "title": "난생처음 C 프로그래밍 | Ch01 프로그래밍과 C 언어 | 비주얼 스튜디오(VisualStudio) 설치하기",
+        "channel_name": "한빛아카데미",
+        "description": "#난생처음",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=gqthv8IjJf8&list=PLV6EMqotxTnFVgd35_ZD-ddg6ULP3XibX"
+    },
+    {
+        "title": "기초C프로그래밍 강좌소개",
+        "channel_name": "선문대학교 SW중심대학사업단",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=HgM4mGTKrCY&list=PLKjRKmeEEkp76Nu5qXa25XwYUGVgwMYdR"
+    },
+    {
+        "title": "[열혈강의]박정민의 C 언어 본색 1.1 C 언어란 무엇인가",
+        "channel_name": "프리렉",
+        "description": "Part 1 C 언어의 기초\n\n01장 C 언어의 소개와 프로그램 작성 방법 \n\n1.1 C 언어란 무엇인가",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=HNcOOzo2oU4&list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw"
+    },
+    {
+        "title": "자료구조 강의예고",
+        "channel_name": "널널한 개발자 TV",
+        "description": "많은 분들이 자료구조 강의를 요청하셔서 강의 일정을 계획보다 앞당기려 합니다. 본격적인 강의는 다음 주 빠르면 이번 주말(2022년 9월 17일 토요일)부터 촬영하고 업로드 할 예정입니다.\n\n이 영상에서는 앞으로 진행 계획 및 다루려는 내용과 수강완료 후 진행할 미니 프로젝트에 관해 간단히 소개합니다. 감사합니다.",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=Pm8NCZJeFyI&list=PLXvgR_grOs1AiEXL3Xfy6yEZ7k2TL4rxy"
+    },
+    {
+        "title": "C언어 기초 강의 - 독학 강좌 :: 포인터도 문제없다, 배열, 함수, 구조체는 기본",
+        "channel_name": "양주종의 코딩스쿨",
+        "description": "양주종의 C언어 \n한 번 끝장을 봅시다.\n포인터 넘어설 수 있습니다.\n필요한 강의로 건너뛸 수 있습니다.\n\n\n안녕하세요. \n이 강좌는 2016년 01월에 카메라, 마이크 등 \n별 준비 없이 제작되었습니다. 많이 부족합니다.\n\n중간에 백색소음도 들어가 있고요.\n화질, 음질 고르지 못합니다.\n참고하여 시청해 주시기 바랍니다. \n\n전체 88개 강좌를 14장으로 분류하여 다시 편집하였습니다.\n각 장별로 링크를 따로 만들어 놓았으니 필요한 내용으로 \n바로 이동할 수 있습니다.\n\n여러 이유로 C언어 포기하려고 했다면 \n마지막이란 마음으로 한 번 더 스스로에게 기회를 주시면 어떨까요.\n\n\nIT 관련 학과, 공대생, 예비 대학생, 취준생과\n정보처리기사 등 자격증에 도전하는 분들에게 \n조금이나마 도움이 되길 바랍니다.\n\n\n더보기란과 고정 댓글을 통해 추가 보완해 가겠습니다.\n\n질문이나 코딩 자료는 양주종 코딩스쿨 \n네이버 카페 ▶ ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=mIkFfRKl5-8&list=PLSxm-MRGlRAqNUH7S49yIXjh-LmgASLJf"
+    },
+    {
+        "title": "[혼공C_새로워진 이것이 C언어다] 1강. 01-1 프로그램과 C언어 / 01-2 컴파일러 사용법",
+        "channel_name": "한빛미디어",
+        "description": "Chapter 01. 프로그램 만들기\n01-1 프로그램과 C언어\n01-2 컴파일과 컴파일러 사용법\n\n※ 주요 학습 내용\n-프로그램이란?  일의 순서\n-프로그래밍 언어란?\n-C 언어의 특징 \n-C 언어의 주요 연혁\n-프로그램 작성 과정\n-소스 파일 (Source File) 작성\n-컴파일\n-실행\n\n[혼자 공부하는 C 언어]는 [이것이 C언어다]의 전면 개정판으로, 두 책의 독자 모두 이 강의를 참고하여 학습하실 수 있습니다. \n\n[혼자 공부하는 C 언어]는 [이것이 C언어다] 콘텐츠를 기반으로 기획된 도서입니다. 동영상 강의 50만 조회수를 기록하는 동안 독자님들로 부터 받은 피드백을 반영하여 콘텐츠를 강화하고, 학습 방법과 구성을 강화 하였습니다. \n\n✔ '혼자 공부하는 C 언어' 커뮤니티 \n► 둘러보기: ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLLHYTLEez0N4l1Xy9YL9OfTwrSjpzEv0y"
+    },
+    {
+        "title": "[혼자 공부하는 C언어] 2-1 직접 해보는 손코딩(10과 20을 더하는 프로그램)",
+        "channel_name": "한빛미디어",
+        "description": "Chapter 02. 상수와 데이터 출력\n02-1 C 프로그램의 구조와 데이터 출력 방법\n2-1 직접 해보는 손코딩(p.25)\n: 10과 20을 더하는 프로그램\n\n※ 추천합니다!\n- 학부 강의를 수강했지만, C 프로그래밍에 여전히 아쉬움이 있는 전공자\n- 학원이나 과외로 따로 C 언어를 배우기에는 시간과 여건이 부족한 현직 개발자\n- C 프로그래밍에 관심이 있는 일반인 누구나 \n\n※ 이 동영상은 『혼자 공부하는 C 언어』 책 내용을 토대로 제작되었습니다. \n▶ 도서 자세히 보기 : ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=bu2Y-AjOf9Q&list=PLVsNizTWUw7GuNAksmGAp-6XgyfUPgGaY"
+    },
+    {
+        "title": "임베디드 C언어 프로그래밍 01강 | 시작하기",
+        "channel_name": "세타랩 주식회사",
+        "description": "01강 | 임베디드 C언어 강의 \n보드 소개, IDE 소개 및 개발환경 설정하기\n - 세타랩 주식회사 -",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=4lzjpsEY6tw&list=PLgEsaLJoYYYOQ4BbAEiVKCbQI0hF_nzUY"
+    },
+    {
+        "title": "[1편] C# 프로그래밍 언어 시작하기 | C# 프로그래밍 입문",
+        "channel_name": "ToyMakers",
+        "description": "[1편] C# 프로그래밍 언어 시작하기 | C# 프로그래밍 입문\n\n1. C# 프로그래밍 언어 소개\n2. 닷넷 프레임워크(.NET Framework)와 닷넷 코어(.NET Core)\n3. C# 프로그래밍 언어의 특징(범용, 다중 패러다임)",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=pxEi3s6sv_8&list=PLHUVRivHVlixV3NeI0ChOilmjHhJ_3P0I"
+    },
+    {
+        "title": "[혼자 공부하는 C언어] 레벨업! 개념정리 - 비트(bit)가 무엇인가요?",
+        "channel_name": "한빛미디어",
+        "description": "※ 추천합니다!\n- 학부 강의를 수강했지만, C 프로그래밍에 여전히 아쉬움이 있는 전공자\n- 학원이나 과외로 따로 C 언어를 배우기에는 시간과 여건이 부족한 현직 개발자\n- C 프로그래밍에 관심이 있는 일반인 누구나 \n\n※ 이 동영상은 『혼자 공부하는 C 언어』 책 내용을 토대로 제작되었습니다. \n▶ 도서 자세히 보기 : ",
+        "thumbnail": "https://i.ytimg.com/vi/ueYLF0NIHkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeg75haw6hJPwNRKydzqnb16Z6Q",
+        "source_url": "https://www.youtube.com/watch?v=ybW5TEbHOdc&list=PLVsNizTWUw7FpSxpfzdRZEePL9D9hTvgS"
+    },
+    {
+        "title": "Swift - 강좌소개",
+        "channel_name": "yagom",
+        "description": "스위프트 기본 문법 \n강좌소개 영상입니다.\n학습자료 및 코드, 자세한 설명은 ",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=2n-fSlW-jts&list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy"
+    },
+    {
+        "title": "스위프트 기초 문법 - 1일차 / 조건문",
+        "channel_name": "개발하는 정대리",
+        "description": "📌 내용\n조건문\n\n📚노션 공부 자료 ",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=EXtpt5Skzck&list=PLgOlaPUIbynoqbQw_erl3L2w7vfOTCtFD"
+    },
+    {
+        "title": "[스유스윞] 변수 #1 - 변수 왜 그리고 어떻게 쓰는가?",
+        "channel_name": "개발자리",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=KKrAb_bUC18&list=PL1PI2d-NlJ8sbW31sgE0J09hfe3rSAVIO"
+    },
+    {
+        "title": "아이폰개발 시작하기 / 초보개발자 / 기본 튜토리얼 / 스위프트 / 앱만들기",
+        "channel_name": "개발하는 정대리",
+        "description": "안녕하세요 개발하는 정대리 입니다.🥰\n이번 영상은 아이폰 기본 튜토리얼 강의 시작 전 오리엔테이션 영상입니다.\n\niOS 시작하기\n\n준비물\n- 컴퓨터 (맥) \n- 아이폰\n- 와이파이 or 연결선\n- 애플 개발자 계정 (매년 12만 9천원) - 앱등록시\n- 듀얼 모니터 (옵션)\n\n기본개념\n- 클라이언트 \n- 손안의 작은 컴퓨터\n- 메모리 란?\n- 쓰레드\n\n주된 작업\n- 화면그리기\n- 화면 간 이동\n- 데이터 전달\n- 서버에 데이터 요청\n- 서버 응답에 따른 예외처리\n- 응답 결과 화면에 보여주기 (목록)\n- 알람, 위젯, 버튼 작업 \n- 미디어 재생, 다운로드 \n- 로컬 디비 \n\n부족한 제 채널을 구독해 주시고 꾸준히 영상을 시청해 주셔서\n너무너무 감사합니다! \n앞으로 더 노력하는 정대리가 되겠습니다! 🥰\n\n\n❤️  개발하는 정대리 채널 맴버쉽 가입하기 ❤️",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=sfRMlyCmWnI&list=PLgOlaPUIbynqRzpQBIdEDnjDdkVsjHqxK"
+    },
+    {
+        "title": "Lev2-1.변수와 상수 - 왕초보를 위한 스위프트 프로그래밍 강좌[iOS app with xcode&swift]",
+        "channel_name": "Lazy Developer",
+        "description": "lesson5.변수와 상수  - 왕초보를 위한 스위프트 프로그래밍 강좌[iOS app with xcode&swift]",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=_mrZkDqWBxc&list=PLR7VglfoyRZivxWKXZ9hia_sdNlEIYjLo"
+    },
+    {
+        "title": "옵셔널이 뭐길래",
+        "channel_name": "한글링",
+        "description": "3-1강 옵셔널이 뭐길래 \n전체 강의는 한글링 웹사이트 ",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=JraZFNSecv4&list=PLE0Is7fZwoLBbgn2iURsn8I3pvzbQCpx-"
+    },
+    {
+        "title": "Swift 강좌 ( iOS 프로그래밍 ) 1주차-1 OT",
+        "channel_name": "Smile Han",
+        "description": "알림 : 이 채널의 수익금 전액은 장학금으로 기부합니다. \n2020-2학기 2학년 iOS프로그래밍기초 강좌 OT\n전체 강좌 목차 : ",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=IvSyNjnv6MI&list=PLJqaIeuL7nuFbWKMhG8-xLzF1T7gIPr8Z"
+    },
+    {
+        "title": "취준생을 위한 스위프트UI 앱만들기 강좌 - SwiftUI fundamental Tutorial (2020) - basic guide",
+        "channel_name": "개발하는 정대리",
+        "description": "📌 내용\n-  스위프트UI\n- Vstack\n- Hstack\n\n👇 소스코드",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=LiWtjXLlhYw&list=PLgOlaPUIbynqyJHiTEv7CFaXd8g5jtogT"
+    },
+    {
+        "title": "Swift로 iOS앱 만들기 Proj. 고양이 갤러리 App #1 레이아웃 잡기",
+        "channel_name": "저세상개발자",
+        "description": "고양이 사진을 다운로드받는 어플리케이션을 작성합니다.\n코드 : ",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=yDhz_70mDn8&list=PLsaaMvoOtr33wgQn89wXx-62zzkUXSfw-"
+    },
+    {
+        "title": "모빌리티1주1차시",
+        "channel_name": "하재승",
+        "description": "수업 개요",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=UpFgFuWhMlc&list=PLHzj2MY-VvKYdBZ2LtfMabC-x9TzGwaQA"
+    },
+    {
+        "title": "10장 Swift 기초 1, Swift의 기초 자료형식, primitives",
+        "channel_name": "Young Seok Cho",
+        "description": "이 교재의 10~12장은 Apple에서 제공하는 Swift Programming Guide(스위프트 프로그래밍 가이드)를 축약하고 효과적인 예제로 수정하였다. 이 부분 역시 GUI 등 시각적으로 화려한 예제는 없으며 오로지 Swift 언어에 대한 특성만을 다뤄 내용은 다소 재미가 없다.\n\nSwift는 Objective C와는 그 구성이 완전히 다른 언어지만 Objective C와 완전히 동일한 라이브러리 환경을 사용하기 때문에 문법만 다를 뿐 대동소이하게 보이는 부분도 많다. 특히 Swift는 C++의 코드릿으로 작성되어 수행 속도가 매우 빠르다는 강점을 가지고 있다.\n\nObjective C와 Swift 언어 “둘중에 무엇을 사용할까?” 라는 의문을 가질 필요는 없다. 사실 완전히 다른 DNA를 가진 언어지만 완전히 같은 환경에서 동작하는 같은 언어라고 볼 수 있다. 스위프트는 성능과 편의 위주의 언어이며, Objective C는 시스템 확장 언어라고 볼 수 있다.",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=Z8-1ecKkKUw&list=PLEfR06GJJ88Hi-cmvv6sX2zc5hoeBUqp9"
+    },
+    {
+        "title": "[스유스윞] optional #10 - 있을 수도 있고 없을 수도 있고 옵셔널",
+        "channel_name": "개발자리",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=yjQqvXvU2SU&list=PL1PI2d-NlJ8sseacReEJzJLrPQRwzonU1"
+    },
+    {
+        "title": "Swift 프로그래밍 1강 Swift 소개와 개발 환경 | T아카데미",
+        "channel_name": "SKplanet Tacademy",
+        "description": "T아카데미 Swift 프로그래밍 강의입니다.\n\n1강 Swift 소개와 개발 환경\n• Swift 개요\n• 개발 환경 \n• 개발자 사이트\n\n2강 데이터 타입과 연산자\n3강 문자와 문자열\n4강 다수의 데이터 다루기\n5강 제어문\n6강 nil과 옵셔널\n7강 함수\n8강 클래스\n9강 객체 초기화\n10강 상속\n11강 메모리 관리\n12강 구조체와 Enum\n13강 클로저\n14강 프로토콜, extension\n15강 에러처리\n16강 Any와 타입 체크, 제네릭스\n17강 파운데이션 1\n18강 파운데이션 2\n19강 파운데이션 3\n20강 파운데이션 4\n\n다양한 IT 강좌를 T아카데미 홈페이지(tacademy.sktechx.com) 및 유투브 채널 (Sktechx Tacademy)에서 만나보실 수 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/2n-fSlW-jts/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBexX7DNWGKdudaTYcVVLZgJf7AyA",
+        "source_url": "https://www.youtube.com/watch?v=VJivCns4TAI&list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf"
+    },
+    {
+        "title": "Linux - install : cloud9",
+        "channel_name": "생활코딩",
+        "description": "https://opentutorials.org/module/2538...",
+        "thumbnail": "https://i.ytimg.com/vi/tPWBF13JIVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU9Rud6FNER2rlQrOoU6Ri7bMVxw",
+        "source_url": "https://www.youtube.com/watch?v=DsG-JWrFJTc&list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH"
+    },
+    {
+        "title": "리눅스 강의 1강. 왜 우리는 리눅스(Linux)를 배워야 하는가",
+        "channel_name": "뉴렉처",
+        "description": "안녕하세요. 리눅스 첫 번째 강의입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/tPWBF13JIVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU9Rud6FNER2rlQrOoU6Ri7bMVxw",
+        "source_url": "https://www.youtube.com/watch?v=TZjB94sA3IU&list=PLq8wAnVUcTFU9zLWK-dHWrvTJ0PF8Y0Sf"
+    },
+    {
+        "title": "[ProjectE] 리눅스 기초(CentOS 7) 1-VirtualBox설정",
+        "channel_name": "IC Design Education Center - IDEC",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/tPWBF13JIVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU9Rud6FNER2rlQrOoU6Ri7bMVxw",
+        "source_url": "https://www.youtube.com/watch?v=CDiZt6CcCLU&list=PLOoXygmflxSN3oCM1BPCxULnaydGQx7za"
+    },
+    {
+        "title": "1 리눅스설치및설정 -리눅스기초",
+        "channel_name": "IC Design Education Center - IDEC",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/tPWBF13JIVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU9Rud6FNER2rlQrOoU6Ri7bMVxw",
+        "source_url": "https://www.youtube.com/watch?v=RrLthkaeW8g&list=PLOoXygmflxSNK97l67mhvbgVr04p6atW7"
+    },
+    {
+        "title": "[블렌더 기초 강좌] 숲속의 오두막 집 만들기 | 코드모드 (Sub)",
+        "channel_name": "CODEMOD | 코드모드",
+        "description": "안녕하세요. 코드모드입니다. :)\n블렌더로 함께 예쁜 오두막집 만들어요!\n초보자도 따라하실 수 있도록 기초 강좌로 제작하였습니다.\n오브젝트가 예쁘게 보일 수 있는 꿀팁들도 있으니 재밌게 봐주세요.\n\n블렌더를 처음 하시는 분들을 위한 간단한 블렌더에 대한 설명이 앞에 있어요.\n만들기 시작하는 부분부터 보시고 싶으신 분은 바로 1번으로 가시면 됩니다.\n\n\n✨기초부터 단계별로 배우는 유료강의를 인프런에 개설 했으니 많은 관심 부탁드려요! :)\n[친절한 블렌더 - Level 0 홍보영상] ",
+        "thumbnail": "https://i.ytimg.com/vi/7FPaJpwzdjU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYwc5SUwFjzuR3IEMRtDh1b3bzJw",
+        "source_url": "https://www.youtube.com/watch?v=M_DlneK0DBA&list=PL_lWH5Iqy60JG0xcp3dgwQhyURSfPi7yf"
+    },
+    {
+        "title": "[Blender 3.0+ 초보 강좌] 1강. Blender 설치 & Viewport Control",
+        "channel_name": "김렌더",
+        "description": "안녕하세요, 김렌더입니다.\n\nBlender 3.0+ 최신 버전 초보 강좌 시작합니다.\n\n본 강좌는 블렌더를 처음 하시는 분들도 들을 수 있는 기초부터 알려드리는 강좌이고, 약 10편 정도의 시리즈로 진행될 예정입니다.\n\n1강에서는 블렌더를 설치하고, 간단한 세팅 후 Viewport Control을 배웁니다.\n\n(이전에 진행하던 구 버전 강좌는 중단하고, 최신 버전 강좌를 제작 중이니, 이 점 양해해주시면 감사하겠습니다.)\n\n––––––––––––––––––––––––––––––\nTrack: Raven & Kreyn - Muffin [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: ",
+        "thumbnail": "https://i.ytimg.com/vi/7FPaJpwzdjU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYwc5SUwFjzuR3IEMRtDh1b3bzJw",
+        "source_url": "https://www.youtube.com/watch?v=LxzZeNI9GPE&list=PLjJclwOF6pOfy1hNnzaLhNzfnSzH_2Vy0"
+    },
+    {
+        "title": "블렌더 아카데미 기초 강좌 시리즈 - 1.블렌더 시작하기",
+        "channel_name": "ArTech",
+        "description": "블렌더 기초강좌 시리즈 -  1.블렌더 시작하기\n본 강좌 시리즈는 블렌더 3.4 버전으로 제작되었습니다.\n------------------------------------------------",
+        "thumbnail": "https://i.ytimg.com/vi/7FPaJpwzdjU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYwc5SUwFjzuR3IEMRtDh1b3bzJw",
+        "source_url": "https://www.youtube.com/watch?v=8QLSHNXWewI&list=PLUgnJ9nL1WEPwM_qBjGSUNg3K-_yhiyUy"
+    }
+]

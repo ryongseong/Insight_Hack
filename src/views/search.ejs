@@ -1,0 +1,222 @@
+<%- include('./partials/header') %>
+
+<div class="search">
+    <form class="searchBox" action="http://localhost:3000/search/search" method="GET">
+        <input type="text" name="query" class="searchInput" placeholder="검색">
+        <button type="submit" class="searchBtn">
+            <i class="fas fa-solid fa-magnifying-glass"></i>
+        </button>
+    </form>
+</div>
+
+<% 
+    const perPage = 12; 
+    const currentPage = parseInt(typeof query !== 'undefined' && query.page ? query.page : 1);
+    const totalPages = Math.ceil(youtubes.length / perPage);
+
+    const startIndex = (currentPage - 1) * perPage; 
+    const endIndex = Math.min(startIndex + perPage, youtubes.length); 
+    const paginatedYoutubes = youtubes.slice(startIndex, endIndex); 
+
+    const pageGroupSize = 10;
+    const currentGroup = Math.ceil(currentPage / pageGroupSize);
+    const startPage = (currentGroup - 1) * pageGroupSize + 1;
+    const endPage = Math.min(currentGroup * pageGroupSize, totalPages);
+%>
+
+<div class="search-results">
+    <h1><%= queryValue %></h1><h2>검색 결과</h2>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <% paginatedYoutubes.forEach(youtube => { %>
+            <div class="col">
+                <div class="card shadow-sm">
+                    <a href="<%= youtube.id %>" target="_blank" class="bg-placeholder-img-card-img-top">
+                        <img src="<%= youtube.thumbnail %>" alt="">
+                    </a>
+                    <div class="card-body">
+                        <a href="<%= youtube.source_url %>" target="_blank" class="bg-placeholder-img-card-img-top" style="text-decoration: none; color: inherit;">
+                            <h3><%= youtube.title %></h3>
+                        </a>
+                        <% if (youtube.description != '') { %>
+                            <p><%= youtube.description %></p>
+                        <% } %>
+                        <p><%= youtube.channel_name %></p>
+                    </div>
+                </div>
+            </div>
+        <% }); %>
+    </div>
+</div>
+
+<div class="pagination">
+    <% if (startPage > 1) { %>
+        <a href="?page=<%= startPage - 1 %>">Previous</a>
+    <% } %>
+
+    <% for (let i = startPage; i <= endPage; i++) { %>
+        <a href="?page=<%= i %>" class="<%= (currentPage === i) ? 'active' : '' %>"><%= i %></a>
+    <% } %>
+
+    <% if (endPage < totalPages) { %>
+        <a href="?page=<%= endPage + 1 %>">></a>
+    <% } %>
+</div>
+
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .search {
+        display: flex;
+        justify-content: center;
+        margin: 1% 0 1% 0;
+    }
+
+    .searchBox {
+        height: 55px;
+        width: 951px;
+        background-color: #F0F0F0;
+        border-radius: 35px;
+        padding: 10px;
+        border: 1px solid #000;
+        display: flex;
+    }
+
+    .searchInput {
+        border: none;
+        background: none;
+        outline: none;
+        float: left;
+        padding: 0;
+        color: #000;
+        font-size: 24px;
+        line-height: 30px;
+        width: 95%;
+        margin: 0;
+    }
+
+    .searchBtn {
+        color: #000;
+        float: right;
+        width: 40px;
+        height: 100%;
+        border-radius: 50%;
+        background-color: #F0F0F0;
+        border: none;
+        font-size: 24px;
+        display: flex;
+        justify-self: center;
+        align-items: center;
+    }
+
+    .search-results {
+        display: flex;
+        justify-content: center;
+        margin: 1% 0 1% 0;
+        align-items: center;
+    }
+
+    .row {
+        max-width: 94%;
+        margin: 0 3% 0 4%;
+        display: flex;
+    }
+    
+    .col-xs-12 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .col {
+        max-width: 25%;
+        max-height: 280px;
+        padding: 0 1% 0 0;
+        margin: 0 0 5% 0;
+    }
+
+    .card {
+        margin-bottom: 20px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+    
+    .card-body {
+        min-height: 141px;
+    }
+
+    .bg-placeholder-img-card-img-top {
+        width: 100%;
+        display: block;
+    }
+
+    .bg-placeholder-img-card-img-top img {
+        width: 100%;
+        object-fit: cover;
+        border-radius: 15px;
+    }
+
+    a.bg-placeholder-img-card-img-top {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 56px;
+    }
+
+    h2 {
+        padding-left: 10px;
+        font-size: 38px;
+    }
+
+    h3 {
+        font-size: 18px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    p {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+    }
+    
+    .pagination a {
+        display: inline-block;
+        width: 40px; /* 원의 지름 */
+        height: 40px; /* 원의 지름 */
+        line-height: 40px; /* 텍스트를 수직 중앙에 배치 */
+        border-radius: 50%; /* 원형 테두리 */
+        border: 2px solid #000000; /* 테두리 색상 */
+        text-align: center;
+        margin: 5px;
+        text-decoration: none;
+        color: #000000; /* 기본 텍스트 색상 */
+    }
+
+    .pagination a.active {
+    background-color: #000000; /* 선택된 페이지의 배경 색상 */
+    color: white; /* 선택된 페이지의 텍스트 색상 */
+    border-color: #000000; /* 선택된 페이지의 테두리 색상 */
+}
+
+    .pagination a:hover {
+        border-color: #000000; /* 마우스 오버 시 테두리 색상 */
+        box-shadow: #000000 0 0 3px; /* 마우스 오버 시 그림자 효과 */
+    }
+
+</style>
+
+<%- include('./partials/footer') %>
